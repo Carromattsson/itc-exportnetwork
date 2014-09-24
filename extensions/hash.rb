@@ -1,6 +1,11 @@
 ##
 # Helpers
 class Hash
+  ##
+  # Convert to URL params as in a complex GET method.
+  def parameterize
+    URI.escape(self.collect{|k,v| "#{k}=#{v}" if v && !v.to_s.empty?}.compact.join('&'))
+  end
 
   ##
   # For any hash, rescue method missing and see if the method being called is a name of a key either as a string or a symbol, then return the value at that point. This could get you into hot water with calls like #values, which is something you could name, but is already taken, which means that the hash[] syntax would have to be used to get that value out.
@@ -15,7 +20,7 @@ class Hash
       end
     end
   end
-  
+
   ##
   # Turn a nested hash into a flattened hash - pass in a delimiter in the second options hash to change how they look (`{some_nested: {value: 1}}` to `{"some_nested-value" => 1}`)
   def recursive_flatten(output = {}, options = {})
