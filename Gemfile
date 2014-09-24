@@ -1,8 +1,4 @@
 source 'https://rubygems.org'
-<<<<<<< HEAD
-=======
-
->>>>>>> FETCH_HEAD
 gem 'sidekiq'
 gem 'nokogiri'
 gem 'pry'
