@@ -3,6 +3,7 @@ class Graph
     @nodes = graph.nodes
     @edges = graph.edges
   end
+
   def to_gexf(file=StringIO.new("", "w+"))
     gexf = GEXF.new(file)
     gexf.header_declaration;false
