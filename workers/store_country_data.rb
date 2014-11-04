@@ -1,8 +1,8 @@
 class StoreCountryData
   include Sidekiq::Worker
-  def perform(file_location)
+  def perform(file_location, mirrored=false)
     cleaned_dataset(file_location).each do |relationship|
-      StoreRelationship.perform_async(relationship.merge(country: country_name_by_file_location(file_location)))
+      StoreRelationship.perform_async(relationship.merge(country: country_name_by_file_location(file_location)), mirrored)
     end
   end
 
@@ -18,7 +18,9 @@ class StoreCountryData
     File.read(file_location).split("\r\n").collect{|r| r.split("\t").collect{|c| c.gsub("\"", "")}}
   end
 
-  def country_name_by_file_location(file_location)
-    file_location.split("/").last.split("_").last.split(".").first
+  def country_name_by_file_location(filename)
+    offset = filename.downcase.include?("mirror") ? -2 : -1
+    filename.split("/").last.split("_")[12..offset].join(" ").gsub(".txt", "")
   end
+
 end

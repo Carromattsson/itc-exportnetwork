@@ -1,79 +1,79 @@
 List of importing markets for a product exported by Afghanistan Product: TOTAL All products
 "Importers"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	
 World	540,066	403,441	388,484	375,851	428,903	
-Pakistan	264,316	191,132	151,343	180,650	201,393	
-Area Nes	0	0	0	0	123,108	
-India	132,002	76,009	65,358	70,438	69,713	
-Iran (Islamic Republic of)	18,203	41,277	31,730	19,533	26,606	
-China	1,943	3,590	11,692	5,872	4,796	
-Saudi Arabia	2,198	2,410	1,566	1,274	1,706	
-Germany	682	765	1,884	1,526	1,580	
-Iraq	5,915	6,931	8,721	15,424	0	
-Korea, Democratic People's Republic of	0	0	0	0	0	
-Korea, Republic of	40	1,291	642	0	0	
-Lebanon	860	26	0	0	0	
-Swaziland	1,724	2,901	0	0	0	
-Tajikistan	6,313	5,894	7,244	5,312	0	
-United Arab Emirates	18,769	6,980	6,181	3,245	0	
-Turkmenistan	10,831	5,797	8,620	3,846	0	
-Ukraine	34	635	229	321	0	
-Uzbekistan	1,517	735	398	149	0	
 Albania	0	0	0	0	0	
-Azerbaijan	0	0	0	0	0	
+Area Nes	0	0	0	0	123,108	
 Argentina	0	0	0	0	0	
+Armenia	0	0	0	0	0	
 Australia	11	8	648	112	0	
 Austria	0	0	14	0	0	
+Azerbaijan	0	0	0	0	0	
 Bangladesh	0	0	0	0	0	
-Armenia	0	0	0	0	0	
 Belgium	2,766	1,366	840	924	0	
 Brazil	1,207	305	0	494	0	
 Bulgaria	0	0	0	0	0	
 Canada	0	315	479	882	0	
-Sri Lanka	0	0	0	0	0	
+China	1,943	3,590	11,692	5,872	4,796	
 Colombia	0	0	0	0	0	
 Cuba	0	0	0	0	0	
 Cyprus	0	0	0	0	0	
 Denmark	0	538	189	67	0	
+Egypt	84	886	3,833	1,373	0	
 Finland	6,168	0	2,953	6,098	0	
 France	126	154	264	166	0	
 Georgia	0	0	0	0	0	
+Germany	682	765	1,884	1,526	1,580	
 Greece	48	0	0	5	0	
 Guatemala	0	0	0	0	0	
 Hong Kong, China	22	252	183	907	0	
 Hungary	0	0	0	0	0	
+India	132,002	76,009	65,358	70,438	69,713	
 Indonesia	0	0	127	0	0	
+Iran (Islamic Republic of)	18,203	41,277	31,730	19,533	26,606	
+Iraq	5,915	6,931	8,721	15,424	0	
 Ireland	0	0	0	0	0	
 Italy	0	124	550	1,464	0	
 Japan	334	701	308	275	0	
-Kazakhstan	339	106	942	1,119	0	
 Jordan	0	0	29	0	0	
+Kazakhstan	339	106	942	1,119	0	
 Kenya	0	0	0	0	0	
+Korea, Democratic People's Republic of	0	0	0	0	0	
+Korea, Republic of	40	1,291	642	0	0	
 Kyrgyzstan	30	36	0	1	0	
 Latvia	0	54	529	196	0	
+Lebanon	860	26	0	0	0	
 Luxembourg	0	0	0	0	0	
 Malaysia	0	0	0	0	0	
-Taipei, Chinese	0	0	0	5	0	
 Morocco	0	0	0	0	0	
 Nepal	0	0	0	0	0	
 Netherlands	51	330	9,409	1,053	0	
 New Zealand	0	0	38	0	0	
 Norway	0	0	52	0	0	
+Pakistan	264,316	191,132	151,343	180,650	201,393	
 Philippines	0	0	0	0	0	
 Poland	50	81	38	2,400	0	
 Romania	0	0	0	0	0	
 Russian Federation	36,722	25,663	29,585	33,034	0	
+Saudi Arabia	2,198	2,410	1,566	1,274	1,706	
 Singapore	0	0	0	0	0	
 Slovakia	0	27	0	0	0	
-Viet Nam	0	0	0	0	0	
 South Africa	0	0	0	0	0	
 Spain	1,837	0	128	38	0	
+Sri Lanka	0	0	0	0	0	
+Swaziland	1,724	2,901	0	0	0	
 Sweden	0	0	46	811	0	
 Switzerland	0	0	264	0	0	
 Syrian Arab Republic	2,388	2,466	941	0	0	
+Taipei, Chinese	0	0	0	5	0	
+Tajikistan	6,313	5,894	7,244	5,312	0	
 Thailand	0	0	0	0	0	
 Turkey	17,887	6,048	34,775	11,456	0	
-Egypt	84	886	3,833	1,373	0	
+Turkmenistan	10,831	5,797	8,620	3,846	0	
+Ukraine	34	635	229	321	0	
+United Arab Emirates	18,769	6,980	6,181	3,245	0	
 United Kingdom	2,518	294	2,050	1,718	0	
 United States of America	2,132	17,315	3,661	3,540	0	
 Uruguay	0	0	0	0	0	
+Uzbekistan	1,517	735	398	149	0	
+Viet Nam	0	0	0	0	0	
 Yemen	0	0	0	122	0	

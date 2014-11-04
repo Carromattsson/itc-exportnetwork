@@ -1,12 +1,13 @@
 class GenerateYear
-  attr_accessor :year, :graph
-  def initialize(year)
+  attr_accessor :year, :graph, :mirrored
+  def initialize(year, mirrored)
     @year = year
+    @mirrored = mirrored
     @graph = {nodes: [], edges: []}
   end
 
   def query
-    Relationship.fields(("year_"+@year.to_s).to_sym, :alter_country, :country)
+    Relationship.where(mirrored: mirrored).fields(("year_"+@year.to_s).to_sym, :alter_country, :country)
   end
 
   def generate_nodes
@@ -14,7 +15,7 @@ class GenerateYear
       {id: c, label: c}
     end
   end
-  
+
   def generate_edges
     query.map do |relationship|
       {source: relationship.country, target: relationship.alter_country, attributes: [{:for => "Year #{@year}", :value => relationship.send("year_#{@year}")}]}
