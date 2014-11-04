@@ -1,0 +1,133 @@
+List of importing markets for a product exported by Bhutan (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	29,383	30,515	58,468	57,850	129,472	185,241	297,501	170,367	151,948	205,490	236,194	193,444	154,937	
+Albania	0	0	0	2	0	0	0	0	0	0	21	0	6	
+Algeria	0	0	0	0	2	1	0	45	0	0	106	0	7	
+Argentina	0	0	0	0	0	0	0	0	10	0	0	2	0	
+Australia	0	4	148	139	5	2	2	12	0	48	56	201	524	
+Austria	6	30	50	386	26	10	28	178	3	3	1	22	5	
+Bahrain	17	62	23	50	25	0	0	95	0	0	0			
+Bangladesh	734	1,981	1,438	0	0	8	0							
+Barbados	1	0	0	0	0	0	0	0	0	15	0	0	0	
+Belarus	0	0	0	0	0	0	0	3	10	0	1	0	0	
+Belgium	0	0	0	0	31	1	0	510	48	7	0	88	9	
+Benin	0	0	0	0	0	0	0	0	1	0	0	0	0	
+Bolivia	0	0	0	0	23	0	0	0	0	0	2	0		
+Bosnia and Herzegovina			0	0	1	0	0	0	2	0	0	0	0	
+Botswana	0	3	0	0	23	0	0	0	0	0	0	0	0	
+Brazil	0	0	0	125	0	0	58	0	0	0	0	4	53	
+Bulgaria	0	0	0	0	0	5	6	0	0	0	0	287	0	
+Burkina Faso	0	0	0	0	0		0	52	2	0	0	0		
+Cabo Verde	0	0	0	0	0	5	0		0	0	0	0	0	
+Cambodia	0	0	18	0	0	0	0	4	0	0	0	0		
+Canada	0	4	10	15	13	22	15	29	13	44	48	53	194	
+Chile	0	2	0	0	0	0	0	0	0	0	0	0	0	
+China	15	21	5	171	2	0	1	0	52	13	76	13	9	
+Colombia	30	58	170	173	38	7	278	432	114	73	79	144	161	
+Comoros	0	0	0	0	0	0	0	0	148					
+Costa Rica	0	0	0	0	0	6	5	1	1	0	0	0	27	
+Côte d'Ivoire	0	0	0	0	0	0	0	0	5	2	44	0		
+Croatia	0	0	0	2	0	0	0	1	0	0	0	0	2	
+Cyprus	1	18	0	0	0	0	0	0	0	0	0	0	0	
+Czech Republic	0	8	0	38	22	1	30	8	0	6	340	0	3	
+Denmark	3	1	4	22	2	18	1	48	103	230	8	24	4	
+Dominican Republic	116	395	262	216	114	119	47	1	0	2	0	0	0	
+Ecuador	14	0	24	0	0	0	0	3	0	0	7	0	1	
+Egypt	0	0	0	19	1	0	0	1	55	0	1	0	1	
+El Salvador	0	0	0	0	0	0	0	0	0	0	0	0	3	
+Estonia	0	0	0	0	0	2	0	0	0	0	0	0	0	
+Ethiopia	0	0	0	0	8	0	1	14	0	0	0	5		
+Faroe Islands	0	2	1	1	6	1	0	1	0					
+Fiji		0	0	0	0	46	0	0	0	0	0	0		
+Finland	1	0	1	0	0	0	0	0	0	0	0	1	0	
+France	1,853	555	153	402	1,094	191	397	105	87	152	74	151	1,293	
+French Polynesia	0	0	0	0	0	0	1	2	2	0	0	0	0	
+Georgia	10	1	0	0	0	1	0	0	0	0	0	0	0	
+Germany	9	58	58	38	200	323	236	792	1,877	21	1,106	1,442	6,661	
+Ghana	0		0		0	0	0	0	0	0	0	0		
+Greece	0	0	0	0	2	0	0	0	0	0	0	0	142	
+Guyana	0	0	0	11	0	0	0	0	0	0	0	4	0	
+Honduras	28	6	45	381	412	70	531	0	0	0	0	0	0	
+Hong Kong, China	0	1	0	14	19,006	62,829	66,504	583	177	379	13	4		
+Hungary	0	0	0	4	0	0	0	0	24	0	0	0	0	
+India	23,314	24,856	52,813	50,910	100,066	116,287	202,117	159,773	140,890	185,690	205,678	169,272	137,064	
+Indonesia	0	0	0	1	1	0	0	365	184	87	36	27	1	
+Iran (Islamic Republic of)	0	0	0	0	0	0				0	0			
+Ireland	1	31	15	7	4	0	0	0	1	0	0	0	0	
+Israel	0	0	0	0	0	818	0	0	0	0	0	0	1	
+Italy	9	0	94	0	41	14	2	3,035	503	481	2,427	3,316	3,124	
+Japan	83	40	59	3,525	198	188	781	1,394	359	3,128	3,307	2,244	2,156	
+Kazakhstan	21	0	0	0	0	0	0	0	0	0	1	0	0	
+Kenya	0	17	37	0	0	0	0	0	9	1	0			
+Korea, Republic of	0	0	38	339	36	0	21	40	13	21	13	7	382	
+Kuwait	0	0	0	0		2	34	105						
+Kyrgyzstan	0	0	0	0	0	11	0	0	0	0	0	0		
+Latvia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lebanon	0	17	0	0	0	0	5	0	0	35	1	0	0	
+Luxembourg	0	0	0	0	0	0	0	0	0	0	1	0	0	
+Macao, China	0	0	0	0	0	0	0	0	27	0		0		
+Macedonia, The Former Yugoslav Republic of	0	0	0	1	0	0	0		0	0	2	0	0	
+Malawi	12	0	0	0	0	64	0	0	0	1	0	44	0	
+Malaysia	138	71	264	1	5	2	60	326	95	13	9	33	35	
+Maldives	0	0	0	0	0	0	0	109	78	0	0	1	15	
+Mali	0	0	0	0	24	0	0	0		0	0	4		
+Malta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Mauritania	0	0	0	0	0		0	0	0	0	0	7		
+Mauritius	75	0	0	0	0	0	1	0	0	0	0	0	0	
+Mayotte	0	0	0	1	0	0	0	1	0					
+Mexico	0	0	0	0	5,843	479	58	4	15	7	2	11	132	
+Mozambique	0	0	0	0	0	0	0	0	53	0	0	33	4	
+Namibia	0	59	0	0	0	0	0	0	0	0	0	0	0	
+Nepal			568						4,550	1,199	2,661			
+Netherland Antilles					0	1	0	71						
+Netherlands	101	97	66	70	30	33	128	277	15	5	28	725	1,531	
+New Caledonia	0	0	0	0	0	0	0	12	1	3	0	7	2	
+New Zealand	0	4	0	1	31	1	1	0	3	0	0	7	2	
+Nicaragua	0	0	0	0	15	0	0	0	0	0	0	0	0	
+Niger	0	0	0	0	0	0	0	0	8	9	1	5	0	
+Nigeria	161	502	54			26	165	3	725	12,792	18,681	12,689		
+Norway	36	0	0	0	0	0	0	0	0	0	0	0	43	
+Pakistan			158	83	572	250	71	42	184	19	130	120	37	
+Palestine, State of							0	32	0	20	0	0		
+Panama	0	0	0		0	0	0	0	0	0	0			
+Papua New Guinea	0	0	0	0							0	0		
+Peru	65	0	0	0	0	0	0	11	0	0	0	0		
+Philippines	713	148	1,193	7	0	0	2	0	0	0	5	1	0	
+Poland	297	0	0	51	22	18	308	405	14	135	0	28	80	
+Portugal	2	0	11	0	0	1	1	0	0	1	0	0	0	
+Qatar	0	0	0	0	0	0	103	0	0	0	0	0	0	
+Republic of Moldova	0	0	0	0	0	19	0	0	0	1	0	0	0	
+Romania	0	1	1	0	16	0	0	0	0	0	0	0	0	
+Russian Federation	0	0	0	0	0	0	0	0	2	3	0	2	95	
+Rwanda	0	0	0	35	0	0	0	0	0	0	0	24	0	
+Saint Vincent and the Grenadines	0	15	0	0	0	0	0	0	0	0	0	0		
+Senegal	0	0	0	0	0	0	0	0	0	0	0	1	92	
+Serbia					0	0	1	1	1	1	0	0	2	
+Serbia and Montenegro	70	156		55										
+Singapore	7	20	0	0	0	0	0	0	0	0	213	25	302	
+Slovakia	4	0	0	1	181	38	161	196	3	2	8	0	0	
+Slovenia	0	0	0	0	2	0	0	1	0	0	0	22	0	
+South Africa	0	0	0	19	2	22	180	36	145	52	25	0	13	
+Spain	21	1	14	13	2	0	2	1	3	0	3	572	5	
+Sri Lanka	0	0	0	0	0	0	16	0	0	0	0	0		
+Sudan (North + South)	0	3	20	0	15	0		0	769	9	28			
+Sweden	0	1	16	0	0	0	0	74	1	56	0	1	5	
+Switzerland	0	0	0	23	7	3	17	8	133	9	85	366	8	
+Syrian Arab Republic	0	0	0	0	0	0	0	0	0	0				
+Taipei, Chinese	2	1	3	0	2	0	2	4	19	56	1	17	21	
+Tanzania, United Republic of	0	1	7	2	0	0	0	0	0	0	0	49	0	
+Thailand	114	84	28	23	538	2,030	24,063	77	111	125	92	355	42	
+Trinidad and Tobago	0	0	0	0	0	0	78	0	0	0				
+Tunisia	13	0	0	0	0	0	0	0	0	9	0	10	13	
+Turkey	29	0	0	0	0	13	0	0	0	3	3	2	2	
+Uganda	1	0	0	0	0	0	0	0	0	0	0	0	0	
+Ukraine	0	0	0	0	0	0	0	0	2	1	1	161	0	
+United Arab Emirates					0		1	218						
+United Kingdom	100	208	63	203	85	112	142	321	78	104	226	207	48	
+United States of America	1,043	972	527	232	667	1,108	838	464	220	416	543	584	572	
+Uruguay	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Venezuela	100	0	0	0	0	0		0	0	0	0	16	0	
+Viet Nam	0	0	0	0	11	33	0	0	0	0	0	0		
+Yemen				0	0	0	0	40	0	0	0	0		
+Zambia	13	0	9	38	0	0	1	0	0	1	0	4	3	
+Zimbabwe	0	0		0	0	0	0	1	0	0	0	0	0	

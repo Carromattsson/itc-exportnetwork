@@ -1,0 +1,7 @@
+List of importing markets for a product exported by West Asia not elsewhere specified (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	0	14	25	0	0	0	0	0	0	0	0	0	0	
+Brunei Darussalam	0	0	0	0		0				0	0	0	0	
+Malaysia	0	14	1	0	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	0	0	0	0	0	0	0	0	0	0		
+Syrian Arab Republic	0	0	24	0	0	0	0	0	0	0				

@@ -1,0 +1,205 @@
+List of importing markets for a product exported by Faroe Islands Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	
+World	521,707	542,029	599,299	620,097	601,764	630,967	746,230	852,091	761,744	
+Afghanistan	0	0	0	0	0	0	0	0	0	
+Albania	0	0	0	0	0	0	0	0	0	
+Algeria	0	0	0	0	0	0	112	0	0	
+Andorra	0	0	0	0	0	0	0	0	0	
+Angola	0	0	0	0	0	0	0	0	0	
+Anguilla	0	0	0	0	0	0	0	0	0	
+Antigua and Barbuda	0	0	0	0	0	0	0	43	9	
+Area Nes	1,513	1,279	1,225	1,471	910	3,906	5,795	2,145	670	
+Argentina	0	0	0	125	0	0	0	1,922	0	
+Armenia	0	0	0	0	0	0	0	0	0	
+Aruba	0	0	0	0	0	0	0	0	0	
+Australia	0	0	0	0	0	0	0	36	9	
+Austria	666	493	484	0	0	0	11	5	41	
+Bahamas	0	0	0	0	0	0	38	108	135	
+Bahrain	0	0	0	0	0	0	0	0	0	
+Bangladesh	0	0	0	0	0	0	0	0	0	
+Barbados	0	0	0	0	0	0	122	0	0	
+Belarus	0	0	334	209	3,406	100	846	2,296	1,182	
+Belgium	3,348	3,076	2,105	1,511	1,827	1,191	715	1,885	2,578	
+Belize	0	0	0	0	0	0	0	2	57	
+Benin	0	0	0	0	0	0	0	0	0	
+Bhutan	0	0	0	0	0	0	0	0	0	
+Bolivia	0	0	0	0	0	0	0	0	0	
+Bosnia and Herzegovina	0	0	0	0	0	0	0	0	0	
+Brazil	0	0	0	0	0	0	0	0	0	
+British Indian Ocean Territories	0	0	0	0	0	0	0	0	0	
+British Virgin Islands	0	0	0	0	0	0	0	0	0	
+Brunei Darussalam	0	0	0	0	0	0	0	0	0	
+Bulgaria	0	0	0	0	56	13	0	0	0	
+Burundi	0	0	0	0	0	0	0	0	0	
+Cabo Verde	0	0	0	0	0	521	0	0	0	
+Cambodia	0	0	0	0	0	0	0	0	0	
+Cameroon	0	0	0	0	0	0	3	0	0	
+Canada	10,914	10,507	16,479	3,123	11,886	10,187	6,941	6,101	7,222	
+Cayman Islands	0	0	0	0	0	0	0	0	0	
+Central African Republic	0	0	0	0	0	0	0	0	0	
+Chad	0	0	0	0	0	0	0	0	0	
+Chile	140	0	2	0	0	0	1,242	20,711	316	
+China	5,744	2,922	7,836	7,181	12,688	11,785	10,553	4,041	17,951	
+Christmas Islands	0	0	0	0	0	0	0	0	0	
+Colombia	0	0	0	0	0	0	0	0	0	
+Comoros	0	0	0	0	0	0	0	0	0	
+Congo	0	0	0	0	0	0	0	0	0	
+Cook Islands	0	0	0	0	0	0	0	0	0	
+Costa Rica	0	0	0	0	0	0	0	0	0	
+Côte d'Ivoire	0	0	0	0	0	0	0	0	0	
+Croatia	0	0	75	134	0	0	0	0	0	
+Cuba	0	0	0	0	0	0	0	2,205	0	
+Cyprus	7	0	0	0	73	42	125	17,233	282	
+Czech Republic	0	0	0	0	0	0	0	0	0	
+Democratic Republic of the Congo	0	0	0	0	0	0	0	0	31	
+Denmark	133,306	109,668	140,130	121,535	88,116	77,113	95,828	102,836	83,814	
+Djibouti	0	0	0	0	0	0	0	0	0	
+Dominica	0	0	0	0	0	0	0	0	0	
+Dominican Republic	0	0	0	0	0	69	590	0	0	
+Ecuador	0	0	0	0	0	0	0	0	56	
+Egypt	0	0	0	0	0	0	0	0	1,314	
+El Salvador	0	0	0	0	0	0	0	0	0	
+Equatorial Guinea	0	0	0	0	0	0	0	0	0	
+Eritrea	0	0	0	0	0	0	0	0	0	
+Estonia	90	76	60	839	1,047	931	1,060	4,710	2,631	
+Ethiopia	0	0	0	21	0	0	0	0	0	
+Falkland Islands (Malvinas)	0	0	0	0	0	0	0	0	0	
+Fiji	0	0	0	0	0	0	0	0	0	
+Finland	313	1,930	3,803	2,721	3,522	4,415	3,785	6,524	7,610	
+France	51,182	42,832	56,031	51,121	49,106	64,621	55,092	68,023	82,265	
+French Polynesia	0	0	0	0	0	0	0	0	0	
+French South Antarctic Territories	0	0	0	0	0	0	0	0	0	
+Gambia	0	0	0	118	0	0	0	0	0	
+Georgia	0	0	0	0	0	0	0	0	105	
+Germany	39,539	36,772	35,497	32,400	31,084	37,644	39,445	52,835	65,791	
+Ghana	0	0	0	0	0	0	1,030	0	0	
+Gibraltar	0	122	0	0	0	201	0	5	209	
+Greece	1,608	2,350	1,178	4,233	8,831	9,060	9,329	14,347	1,838	
+Greenland	6,978	7,515	78	1,157	1,904	4,477	17,376	6,630	3,691	
+Grenada	0	0	0	0	0	0	0	0	0	
+Guatemala	0	0	0	0	0	0	0	0	54	
+Guinea	0	0	0	0	0	0	0	0	0	
+Haiti	0	0	0	0	0	0	0	0	0	
+Honduras	0	0	0	0	0	0	0	0	0	
+Hong Kong, China	250	673	270	30	0	97	0	0	580	
+Hungary	0	0	0	9	0	9	0	0	0	
+Iceland	6,438	5,726	16,776	31,223	10,835	15,491	21,507	20,316	10,772	
+India	0	0	0	0	530	0	0	0	0	
+Indonesia	0	0	0	24	0	0	0	0	68	
+Iran (Islamic Republic of)	0	0	0	0	0	0	0	0	0	
+Iraq	0	0	0	0	0	0	0	0	0	
+Ireland	109	253	600	1,047	565	2,241	1,825	4,491	768	
+Israel	0	0	32	30	21	91	103	0	16	
+Italy	16,667	22,248	18,905	22,168	16,458	16,672	15,001	23,664	24,366	
+Jamaica	0	0	59	58	0	72	811	0	0	
+Japan	12,920	21,731	24,170	24,333	20,929	20,430	21,844	21,155	10,189	
+Jordan	0	0	0	0	0	0	0	0	0	
+Kazakhstan	0	0	0	0	0	0	0	0	311	
+Kenya	0	0	0	0	0	0	0	0	3	
+Kiribati	0	0	0	0	0	0	0	0	0	
+Korea, Democratic People's Republic of	88	0	0	127	0	0	0	0	0	
+Korea, Republic of	497	0	128	128	95	56	929	429	0	
+Kuwait	0	0	0	0	0	0	0	0	0	
+Kyrgyzstan	0	0	0	0	0	0	0	0	89	
+Lao People's Democratic Republic	0	0	0	0	0	0	0	0	0	
+Latvia	1	0	16	25	74	3,064	238	248	409	
+Lebanon	0	0	0	0	0	0	0	0	0	
+Lesotho	0	0	0	0	0	0	0	0	0	
+Liberia	0	0	0	0	0	276	0	0	0	
+Lithuania	818	418	203	2,420	5,999	3,979	1,516	2,302	3,919	
+Luxembourg	46	193	200	276	41	105	153	205	679	
+Macao, China	0	0	0	0	0	0	0	0	0	
+Macedonia, The Former Yugoslav Republic of	0	0	0	0	0	0	0	0	0	
+Madagascar	0	0	0	0	0	0	0	0	0	
+Malawi	0	0	0	0	0	0	0	0	0	
+Malaysia	0	0	0	3	5	50	0	0	100	
+Maldives	0	0	0	0	0	0	0	0	0	
+Mali	0	0	0	0	0	0	0	0	0	
+Malta	0	0	0	0	0	26	1	0	96	
+Marshall Islands	0	0	0	0	0	0	0	234	0	
+Mauritania	0	0	0	0	0	0	0	0	0	
+Mauritius	0	0	0	0	0	0	0	0	0	
+Mayotte	0	0	0	0	0	0	0	0	0	
+Mexico	0	0	0	0	0	0	0	0	0	
+Micronesia (Federated States of)	0	0	0	0	0	0	0	0	0	
+Mongolia	0	0	0	0	0	0	0	0	0	
+Morocco	0	0	0	23	0	0	0	92	0	
+Mozambique	0	0	0	0	0	0	0	0	0	
+Myanmar	0	0	0	0	0	0	0	0	0	
+Namibia	1,142	128	0	0	0	0	0	0	2,244	
+Nauru	0	0	0	0	0	0	0	0	0	
+Nepal	0	0	0	0	0	0	0	0	0	
+Netherland Antilles	0	0	0	0	0	0	0	0	0	
+Netherlands	4,175	6,125	3,847	4,774	4,893	6,711	9,250	8,292	9,193	
+New Caledonia	0	0	0	0	0	0	0	0	0	
+New Zealand	0	0	1	0	0	0	0	19	1,592	
+Nicaragua	60	0	13	0	0	0	0	0	0	
+Niger	0	326	0	0	0	0	119	0	0	
+Nigeria	496	3,074	3,972	7,554	6,821	7,541	29,178	19,975	31,156	
+Niue	0	0	0	0	0	0	0	0	0	
+Norfolk Island	0	0	0	0	0	0	0	0	0	
+Norway	44,497	38,561	31,070	49,851	35,747	64,851	101,688	132,797	62,359	
+Oman	0	0	0	0	0	0	0	0	0	
+Pakistan	0	0	0	0	0	0	0	0	0	
+Panama	0	0	0	0	112	203	12	233	247	
+Papua New Guinea	67	0	0	0	0	0	0	0	0	
+Paraguay	0	0	0	0	0	0	0	0	0	
+Peru	0	0	0	0	0	0	0	274	22,677	
+Philippines	0	0	84	219	291	197	263	374	439	
+Poland	119	3,058	1,450	6,152	15,842	4,959	8,449	7,787	19,591	
+Portugal	292	1,163	467	245	771	487	906	1,268	1,855	
+Qatar	0	0	0	0	0	0	0	0	0	
+Republic of Moldova	0	0	0	0	0	0	129	166	86	
+Romania	0	0	0	0	0	4	587	256	72	
+Russian Federation	481	3,560	5,917	3,960	21,880	19,297	23,328	21,451	30,662	
+Saint Lucia	0	0	0	0	0	0	0	0	0	
+Saint Vincent and the Grenadines	0	0	0	0	0	96	62	660	0	
+Samoa	0	0	0	0	0	0	0	0	0	
+Sao Tome and Principe	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	71	1	0	0	0	0	49	
+Senegal	0	0	0	0	0	0	0	0	0	
+Serbia	0	0	0	0	0	0	0	0	0	
+Serbia and Montenegro	0	0	0	0	0	0	0	0	0	
+Seychelles	0	0	0	0	0	0	0	0	0	
+Sierra Leone	0	0	0	0	0	0	0	0	0	
+Singapore	0	0	0	112	0	0	0	0	0	
+Slovakia	0	0	0	355	57	0	0	0	0	
+Slovenia	0	24	0	16	10	5	0	462	0	
+Solomon Islands	0	0	0	0	0	0	0	0	0	
+Somalia	0	0	0	0	0	0	0	0	0	
+South Africa	0	0	0	0	0	0	0	3,854	488	
+Spain	61,077	61,021	71,176	61,823	58,061	53,062	63,333	63,862	31,323	
+Sri Lanka	0	0	0	0	0	0	0	0	0	
+St. Pierre and Miquelon	0	0	0	0	0	0	0	0	0	
+Sudan (North + South)	0	0	0	0	0	0	0	0	0	
+Suriname	0	0	0	0	0	0	0	0	0	
+Swaziland	95	228	417	0	387	0	0	0	0	
+Sweden	5,746	7,337	7,188	8,007	4,520	4,569	5,721	5,451	6,950	
+Switzerland	0	0	0	0	0	0	0	0	0	
+Syrian Arab Republic	0	0	0	0	0	0	0	0	0	
+Taipei, Chinese	168	62	1,379	509	112	78	614	2,611	10,011	
+Tajikistan	0	0	0	0	0	0	0	0	0	
+Tanzania, United Republic of	0	0	0	0	0	0	0	0	0	
+Thailand	82	1,002	803	556	1,204	255	1,331	3,910	2,119	
+Togo	0	0	0	0	102	0	0	112	0	
+Tokelau	0	0	0	0	0	0	0	0	0	
+Trinidad and Tobago	0	0	0	0	0	0	0	0	0	
+Tunisia	0	0	0	0	0	0	0	0	0	
+Turkey	0	0	0	31	0	522	10	0	0	
+Turkmenistan	0	0	0	0	0	0	0	0	0	
+Turks and Caicos Islands	0	382	0	0	116	0	0	0	0	
+Tuvalu	0	0	0	0	0	0	0	0	0	
+Uganda	0	0	0	0	0	0	5	0	0	
+Ukraine	94	233	351	1,464	4,182	2,913	1,174	4,762	6,664	
+United Arab Emirates	0	0	0	0	0	0	1	0	0	
+United Kingdom	95,358	130,246	131,545	157,525	170,989	171,856	178,351	172,301	131,898	
+United States Minor Outlying Islands	0	0	0	0	0	0	0	0	0	
+United States of America	14,578	14,712	12,872	7,120	5,643	4,296	7,261	12,873	57,260	
+Uruguay	0	0	0	0	0	0	0	57	59	
+Uzbekistan	0	0	0	0	0	0	0	0	0	
+Vanuatu	0	0	0	0	0	0	0	0	0	
+Venezuela	0	0	0	0	0	0	0	0	0	
+Viet Nam	0	0	0	0	16	130	489	504	520	
+Yemen	0	0	0	0	0	0	0	0	0	
+Zambia	0	0	0	0	0	0	0	0	0	
+Zimbabwe	0	0	0	0	0	0	0	0	0	

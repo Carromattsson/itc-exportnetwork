@@ -1,0 +1,116 @@
+List of importing markets for a product exported by Pitcairn (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	1,461	2,921	3,193	20,100	4,412	28,519	5,333	9,235	1,756	1,904	4,287	6,617	1,333	
+Antigua and Barbuda					0		0		0	2	0	0	0	
+Argentina	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Armenia	0	0	0	0	0	0	0	0	0	6	0	1	0	
+Australia	0	0	8	0	133	280	1,674	763	327	240	280	197	44	
+Austria	6	2	95	1	1	0	8	234	0	9	6	38	0	
+Bahrain	0	0	0	0	0	0	0	0	0	3	58			
+Bangladesh	0	0	199	2	61	111	1,883							
+Belarus	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Belgium	0	0	14	0	0	0	0	0	0	0	0	0	11	
+Belize	0	0	0	69	0	0	147	120	0	0	0	0	0	
+Benin	0	0	0	0	0	0	0	2	0	0	12	0	0	
+Bolivia	0	0	0	1	1	0	0	1	0	1	0	0		
+Bosnia and Herzegovina			0	0	22	2	5	9	1	0	0	0	0	
+Brazil	0	0	0	0	0	0	6	0	0	3	1	1	2	
+Bulgaria	0	25	0	0	0	0	30	173	0	0	0	0	0	
+Burundi	0	0	0	19	0	0	1	0	0	14	0	0	0	
+Cabo Verde	0	0	0	0	0	0	0		0	0	0	0	16	
+Cameroon	0	0	0	0	0	0	0	1	0	0	0	0		
+Canada	34	52	32	23	8	8	12	141	34	32	58	25	452	
+Colombia	3	0	14	4	879	4	39	190	2	155	13	0	17	
+Congo							149	0	0	0	0	0	1	
+Costa Rica	0	0	0	0	0	4	120	25	0	0	2	0	70	
+Croatia	0	0	0	0	0	0	5	3	0	0	0	2	0	
+Cuba	0	2	0	0	0	46								
+Czech Republic	45	17	51	34	4	2	0	4	0	0	0	0	32	
+Denmark	0	0	0	0	33	10	8	2	0	0	1	47	0	
+Djibouti									26					
+Dominican Republic	0	997	0	0	204	11	0	49	0	0	0	0	0	
+Ecuador	0	0	0	0	0	0	0	0	0	0	0	0	38	
+El Salvador	0	0	0	0	14	0	0	6	7	1	0	140	4	
+Estonia	0	0	0	0	0	14	0	0	0	0	0	0	0	
+Fiji		286	0	0	0	0	0	14	0	17	0	0		
+Finland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+France	115	68	158	114	29	31	86	146	173	134	42	158	33	
+French Polynesia	0	0	0	0	0	4	6	2	5	0	0	0	0	
+Germany	27	440	1,393	1,176	73	29	60	62	40	1	0	9	9	
+Greece	0	19	0	0	0	0	8	0	3	0	0	0	0	
+Greenland	0	0	2	0	0	0	0	0	0	0	0	0	0	
+Grenada	26	1	6	0	0	0	0	0						
+Guatemala	0	0	0	0	0	1	0	5	46	1	0	0	1	
+Guinea	0	0		0	0	0	0	0		0	909	0		
+Honduras	5	0	0	0	0	0	0	0	0	0	0	0	0	
+Hong Kong, China	0	0	0	0	0	19	0	0	0	0	0	0		
+Iceland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+India	0	0	0	1	2	5	0	5	0	0	0	0	0	
+Ireland	1	0	29	87	0	0	0	3	0	8	1	2	2	
+Italy	96	396	340	8,123	118	26,637	232	0	6	0	0	0	24	
+Japan	3	20	92	39	6	27	8	56	4	6	9	0	7	
+Kazakhstan	0	0	0	0	0	0	0	0	0	0	0	0	3	
+Kenya	0	0	18	196	0	0	0	3	0	20	0			
+Korea, Republic of	4	0	0	0	4	142	554	101	0	14	0	9	0	
+Kuwait	0	0	0	0		0	3	0						
+Lebanon	0	0	0	0	0	0	0	12	2	0	0	0	1	
+Lithuania	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luxembourg	0	0	0	0	0	0	0	2	0	0	0	4	0	
+Macao, China	0	0	0	0	0	0	0	0	0	0		0		
+Madagascar	11	0	0	0	0	0	0	0	0	0	0	0	0	
+Malawi	1	0	0	0	0	0	0	0	0	0	0	7	0	
+Malaysia	0	0	0	0	0	1	0	1	77	0	0	0	8	
+Mali	0	0	0	0	0	0	0	4		0	0	0		
+Malta	3	3	0	1	0	0	0	0	0	0	0	0	0	
+Mauritius	0	0	0	0	0	0	0	0	0	0	2	0	0	
+Mexico	31	0	0	2	28	6	47	375	3	137	1,017	261	18	
+Montenegro						0	1	1	0	0	0	0	0	
+Morocco	0	0	0	0	0	0	0	0	0	0	0	0	95	
+Mozambique	0	0	0	0	0	0	0	0	0	3	41	33	1	
+Nepal			0						0	0	18			
+Netherland Antilles					5	0	5	0						
+Netherlands	0	17	61	2	1,503	45	15	97	0	0	1	1	12	
+New Caledonia	0	0	0	0	0	0	0	0	0	6	1	0	0	
+New Zealand	40	33	7	9	16	32	27	32	56	98	75	121	15	
+Nicaragua	1	0	0	0	0	23	12	13	5	0	0	0	0	
+Nigeria	11	176	17			807	0	0	62	0	0	0		
+Norway	0	0	0	0	0	0	2	0	0	0	0	0	0	
+Pakistan			0	1	40	0	46	12	0	11	17	107	116	
+Papua New Guinea	14	0	0	9,112							1	0		
+Peru	0	6	1	0	0	1	0	0	0	0	0	0		
+Poland	0	0	0	42	1	7	10	34	322	38	73	0	3	
+Portugal	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Republic of Moldova	1	0	0	0	0	0	0	0	0	0	0	0	0	
+Romania	0	0	0	0	1	2	0	0	0	0	0	0	0	
+Russian Federation	1	2	0	0	0	0	3	1	0	0	0	0	0	
+Rwanda	0	0	0	15	0	0	0	0	0	0	0	0	0	
+Saint Kitts and Nevis	0	0	0	0	0	0	0	0	0	0	1			
+Saint Lucia	0	0	0	10	0	0	0	0						
+Saint Vincent and the Grenadines	0	0	0	0	0	0	0	5,027	5	0	0	0		
+Samoa	11	0	0	0	0	0	0	0	0	0	0	0	66	
+Saudi Arabia	0	0	0	0	3	0	0	0	0	0	0	0		
+Serbia					1	6	2	5	0	0	10	0	0	
+Serbia and Montenegro	1	12		12										
+Sierra Leone		12												
+Singapore	122	0	0	0	0	0	0	0	0	0	0	2,691	123	
+Slovakia	0	0	23	9	23	7	21	6	37	4	102	29	39	
+Slovenia	0	31	2	24	0	1	0	0	1	0	10	0	0	
+South Africa	8	1	10	0	0	0	6	4	31	1	1	0	7	
+Spain	0	71	0	0	0	0	0	0	0	1	1	4	2	
+Sri Lanka	0	0	0	0	0	0	0	0	0	0	0	0		
+Sudan (North + South)	1	0	0	0	0	0		0	48	1	0			
+Sweden	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Switzerland	566	1	5	75	29	39	0	0	13	0	1	2	0	
+Taipei, Chinese	0	1	0	12	0	14	1	0	0	2	0	0	9	
+Tanzania, United Republic of	3	28	35	77	0	0	0	0	0	0	0	0	0	
+Thailand	27	0	3	93	81	1	0	14	1	27	1	53	2	
+Trinidad and Tobago	26	0	1	3	0	7	0	0	0	0				
+Tunisia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Turkey	2	0	0	0	0	0	0	1	1	0	1	7	1	
+Uganda	0	37	64	0	0	0	0	0	0	0	0	0	0	
+Ukraine	0	20	0	0	0	0	0	8	0	1	1	0	0	
+United Kingdom	2	3	10	4	8	23	0	27	164	773	5	0	11	
+United States of America	213	133	494	708	1,076	110	91	509	30	4	3	5	3	
+Vanuatu						0	0		0	8	0			
+Venezuela	0	9	0	0	5	0		930	224	122	1,512	2,663	35	
+Viet Nam	0	0	9	0	0	0	0	0	0	0	0	0		

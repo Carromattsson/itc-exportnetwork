@@ -1,0 +1,108 @@
+List of importing markets for a product exported by Niue (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	2,915	4,968	2,886	1,783	1,722	2,389	2,727	9,361	76,242	294,703	4,128	3,903	5,125	
+Australia	2	1	1	0	1	3	26	16	34	9	22	6	2	
+Austria	0	13	17	8	0	35	54	0	0	0	1	0	0	
+Azerbaijan	0	0	0	0	0	23	2	0	0	0	0	4		
+Bangladesh	0	0	0	86	1	0	3							
+Belarus	0	0	0	0	0	0	6	0	0	0	0	1	0	
+Belgium	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Benin	0	0	0	6	0	3	3	0	0	1	0	0	0	
+Bosnia and Herzegovina			0	0	0	0	1	0	0	0	5	1	0	
+Brazil	0	0	0	2	0	0	5	11	10	7	38	39	17	
+Bulgaria	0	0	0	0	17	22	0	3	0	0	0	0	0	
+Burkina Faso	0	0	0	0	0		0	0	0	0	0	119		
+Burundi	0	0	0	0	0	0	0	1	0	0	0	0	0	
+Cambodia	0	0	0	0	0	0	0	0	2,060	2,888	0	333		
+Cameroon	0	0	0	0	0	0	1	0	0	1,129	0	0		
+Canada	5	18	1	76	57	57	4	32	29	31	26	15	21	
+Chile	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Colombia	0	0	0	0	1	19	7	1	7	18	0	7	3	
+Cook Islands					0									
+Costa Rica	24	36	0	0	0	0	4	0	0	0	0	0	0	
+Croatia	0	0	0	0	6	0	0	6	6	3	16	3	0	
+Cuba	67	3	0	0	0	0								
+Czech Republic	0	6	12	17	0	11	7	442	448	38	138	199	109	
+Denmark	0	0	3	0	0	0	0	0	0	0	0	0	0	
+Dominican Republic	0	0	1	98	0	0	0	0	0	0	0	0	0	
+Ecuador	0	0	1	0	0	0	0	0	0	0	0	0	0	
+El Salvador	0	0	0	0	1	33	0	0	1	0	0	0	9	
+Estonia	47	80	75	101	40	0	0	0	0	0	0	0	0	
+Ethiopia	0	0	0	14	0	0	0	0	0	0	0	0		
+Faroe Islands	0	0	0	1	1	4	0	4	17					
+Fiji		6	2	12	2	2	4	31	16	40	18	6		
+Finland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+France	1	0	0	56	19	0	29	124	722	49	149	7	34	
+French Polynesia	8	0	0	0	0	0	0	0	0	0	0	0	0	
+Georgia	2,310	1,795	2,325	439	42	0	0	0	0	0	36	36	0	
+Germany	48	133	8	84	30	14	829	7	172	359	46	0	2	
+Ghana	0		0		0	0	0	0	33	0	0	0		
+Guatemala	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Iceland	0	0	0	0	0	0	151	0	0	0	0	0	0	
+India	0	0	0	0	0	233	96	0	59	1	2	9	18	
+Indonesia	0	101	55	0	10	0	0	0	9	0	0	0	3	
+Ireland	12	6	35	260	3	0	23	74	38	0	1	0	0	
+Israel	0	0	0	0	0	0	0	0	0	0	0	0	21	
+Italy	0	0	0	0	0	0	17	0	15	0	24	0	0	
+Japan	0	4	0	31	0	943	11	12	4	34	13	48	109	
+Kazakhstan	3	1	0	0	1	0	0	0	0	1	0	5	87	
+Kenya	0	0	2	0	361	0	0	0	0	0	0			
+Kiribati					0		0	0	4	0	0	0		
+Korea, Republic of	0	31	0	0	25	0	7	46	0	52,487	926	54	11	
+Kuwait	0	0	0	0		0	13	0						
+Lebanon	0	0	0	0	1	0	0	0	3	0	0	1	2	
+Luxembourg	0	0	0	0	0	0	0	5	0	0	1	83	4	
+Macedonia, The Former Yugoslav Republic of	0	0	0	0	0	17	3		17	0	78	0	1	
+Madagascar	0	0	0	0	0	0	0	6	0	0	0	0	1	
+Malawi	0	0	0	0	0	0	0	2	0	0	0	0	0	
+Malaysia	0	0	0	0	0	0	0	0	0	0	0	3	2	
+Mauritius	0	0	0	0	0	13	3	0	0	0	0	0	0	
+Mexico	0	0	0	0	5	0	1	1	4	25	5	13	3	
+Montenegro						0	0	1	2	0	0	0	0	
+Morocco	0	0	0	0	0	0	0	0	0	0	0	0	1	
+Namibia	2	0	0	0	0	0	0	0	0	0	0	0	0	
+Netherlands	0	0	0	0	200	0	0	0	5	0	0	0	0	
+New Caledonia	0	0	0	0	0	0	0	0	0	0	2	0	0	
+New Zealand	173	58	121	181	204	317	740	229	160	270	1,836	240	100	
+Nigeria	72	2,376	52			0	0	7,065	71,148	236,653	8	3		
+Norway	0	0	0	0	0	0	4	0	0	0	0	0	1	
+Pakistan			0	0	381	34	0	335	0	0	0	0	0	
+Papua New Guinea	2	0	2	5							2	0		
+Peru	0	0	0	4	0	0	0	99	0	84	1	2		
+Poland	0	0	0	59	7	11	10	24	133	228	2	9	27	
+Portugal	0	0	0	0	0	0	0	0	0	0	0	2	0	
+Republic of Moldova	0	0	0	0	0	0	0	0	0	0	0	0	16	
+Romania	0	0	0	5	24	2	31	0	0	0	0	0	0	
+Russian Federation	0	0	0	0	0	0	0	0	0	0	0	6	1	
+Rwanda	0	8	0	0	0	0	0	0	0	0	0	0	0	
+Saint Vincent and the Grenadines	0	0	0	0	0	0	0	0	0	23	1	0		
+Samoa	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Senegal	0	0	0	0	0	0	0	0	0	0	378	2,144	4,008	
+Serbia					0	0	0	346	0	1	26	13	1	
+Serbia and Montenegro	0	46		7										
+Seychelles	0	0	0		0	0		4						
+Slovakia	0	0	0	0	0	15	4	0	3	59	1	2	4	
+Slovenia	3	0	0	15	0	0	0	29	1	5	0	1	10	
+South Africa	1	14	1	1	98	153	44	74	120	90	64	9	59	
+Spain	0	0	0	5	0	53	0	0	0	0	0	1	0	
+Sri Lanka	0	0	0	0	0	228	0	32	2	0	0	0		
+Sudan (North + South)	0	16	0	0	0	0		101	846	18	4			
+Sweden	0	0	0	2	24	0	0	0	0	0	15	0	0	
+Switzerland	94	193	7	0	0	0	0	0	0	0	13	79	0	
+Taipei, Chinese	0	8	0	0	0	3	30	10	18	0	1	0	1	
+Tanzania, United Republic of	0	0	0	0	0	0	0	3	0	0	0	0	0	
+Thailand	6	0	37	0	2	0	2	6	1	1	6	1	16	
+Togo	0	0	6	0	0		0	0	0	0	0	0	0	
+Tonga	0	0	0					0	0	0	116	8		
+Trinidad and Tobago	0	0	0	0	0	0	0	1	0	0				
+Turkey	0	0	0	0	0	40	7	31	28	56	49	135	231	
+Uganda	0	0	0	0	0	0	0	0	0	5	0	0	0	
+Ukraine	0	0	0	0	0	0	0	0	0	0	1	0	1	
+United Kingdom	1	0	0	5	14	0	4	67	37	32	0	91	0	
+United States of America	33	15	122	202	144	76	540	78	22	34	54	156	189	
+Vanuatu						0	0		2	23	3			
+Venezuela	0	0	0	0	0	0		2	0	0	0	9	0	
+Viet Nam	0	0	0	0	0	25	0	0	0	0	0	0		
+Yemen				1	0	0	0	0	6	0	0	0		
+Zambia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Zimbabwe	1	0		0	0	0	0	0	0	1	0	0	0	

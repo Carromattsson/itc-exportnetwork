@@ -1,0 +1,86 @@
+List of importing markets for a product exported by Eritrea Product: TOTAL All products
+"Importers"	"Exported value in 2003"	
+World	6,619	
+Area Nes	16	
+Armenia	15	
+Australia	1	
+Austria	0	
+Bahrain	0	
+Bangladesh	0	
+Belgium	0	
+Brazil	0	
+Canada	0	
+China	49	
+Croatia	0	
+Cuba	0	
+Cyprus	0	
+Czech Republic	0	
+Denmark	0	
+Djibouti	41	
+Egypt	0	
+Ethiopia	0	
+Finland	0	
+France	172	
+Germany	145	
+Greece	430	
+Hong Kong, China	187	
+Iceland	9	
+India	478	
+Indonesia	7	
+Iran (Islamic Republic of)	0	
+Ireland	0	
+Israel	143	
+Italy	768	
+Jamaica	0	
+Japan	0	
+Jordan	67	
+Kenya	9	
+Korea, Democratic People's Republic of	0	
+Korea, Republic of	0	
+Kuwait	0	
+Lebanon	0	
+Libya	0	
+Lithuania	0	
+Malaysia	0	
+Mali	0	
+Malta	0	
+Morocco	0	
+Namibia	0	
+Netherlands	689	
+New Zealand	0	
+Niger	0	
+Nigeria	0	
+Norway	0	
+Oman	0	
+Pakistan	168	
+Poland	0	
+Portugal	0	
+Qatar	0	
+Russian Federation	193	
+Rwanda	0	
+Saudi Arabia	44	
+Senegal	0	
+Singapore	820	
+Slovakia	0	
+South Africa	85	
+Spain	6	
+Sri Lanka	142	
+Sudan (North + South)	1,285	
+Sweden	2	
+Switzerland	1	
+Syrian Arab Republic	0	
+Taipei, Chinese	25	
+Tanzania, United Republic of	0	
+Thailand	0	
+Tunisia	0	
+Turkey	63	
+Turks and Caicos Islands	0	
+Uganda	39	
+Ukraine	0	
+United Arab Emirates	22	
+United Kingdom	174	
+United States of America	83	
+Venezuela	0	
+Viet Nam	102	
+Yemen	134	
+Zimbabwe	4	

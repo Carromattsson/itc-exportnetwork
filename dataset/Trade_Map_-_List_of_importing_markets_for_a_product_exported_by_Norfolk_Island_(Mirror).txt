@@ -1,0 +1,95 @@
+List of importing markets for a product exported by Norfolk Island (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	1,070	3,562	2,947	4,005	1,320	1,269	2,838	4,065	4,196	3,049	3,786	3,750	5,783	
+Australia	132	136	245	48	53	74	52	137	70	90	36	82	28	
+Austria	0	0	1	0	0	1	1	0	0	0	0	0	0	
+Bangladesh	140	93	0	0	0	0	0							
+Barbados	0	0	0	0	0	25	22	0	0	0	3	0	0	
+Belarus	0	0	0	0	0	0	0	1	0	0	0	0	1	
+Belgium	47	121	114	133	100	78	0	0	5	19	0	0	217	
+Benin	0	0	0	0	34	0	2	1	0	22	0	13	71	
+Brazil	0	0	0	0	0	0	0	11	1	1	0	3	0	
+Bulgaria	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cabo Verde	0	0	0	0	0	0	0		0	0	0	0	0	
+Cambodia	68	244	95	224	0	0	0	0	0	0	0	0		
+Cameroon	0	0	0	0	0	0	0	0	0	1	0	0		
+Canada	1	1	5	3	3	21	32	1	6	1	36	588	31	
+China	0	0	9	0	0	0	0	58	0	7	0	0	0	
+Colombia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Costa Rica	0	0	0	0	0	13	102	30	0	0	11	0	0	
+Côte d'Ivoire	0	0	1	0	0	0	0	0	0	0	0	0		
+Croatia	0	5	0	9	3	1	0	3	0	46	0	0	0	
+Cuba	10	0	0	0	0	0								
+Czech Republic	0	0	0	0	161	0	0	0	39	0	175	559	223	
+Denmark	3	6	6	8	15	8	5	6	1	0	0	0	0	
+Dominican Republic	0	0	0	0	0	0	141	17	70	0	22	22	0	
+Ecuador	0	0	0	0	0	0	0	0	0	0	0	8	9	
+Ethiopia	0	399	2	0	0	0	0	0	0	0	0	0		
+Faroe Islands	0	0	0	0	0	1	0	0	0					
+Fiji		5	0	0	83	7	0	716	76	5	0	0		
+Finland	0	0	0	2	0	0	0	0	0	0	0	0	0	
+France	1	39	195	377	235	182	298	162	412	0	22	147	878	
+French Polynesia	0	0	1	0	0	0	0	0	0	0	0	0	0	
+Germany	0	13	9	7	13	6	4	9	3	1,237	52	0	0	
+Ghana	0		3		15	0	0	57	18	73	309	0		
+Grenada	0	3	0	0	0	0	0	0						
+Guatemala	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Guyana	0	0	0	0	0	0	0	0	24	0	0	0	0	
+Iceland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+India	10	24	0	82	112	21	176	1,087	699	288	45	326	189	
+Indonesia	26	46	179	68	2	33	69	402	239	804	777	829	594	
+Ireland	0	0	2	16	29	22	22	12	1	1	7	0	0	
+Italy	0	0	0	5	0	21	0	0	0	0	0	0	0	
+Korea, Republic of	0	5	0	12	54	0	0	30	1	0	0	50	13	
+Lebanon	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lithuania	0	0	0	6	0	0	0	0	0	0	0	0	0	
+Luxembourg	0	0	0	0	0	0	0	2	4	1	0	0	0	
+Malawi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Malaysia	0	0	0	0	2	26	34	523	287	74	77	539	2,248	
+Mauritius	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Mexico	0	0	4	31	9	1	11	27	13	3	17	2	1	
+Mozambique	0	0	0	0	0	0	0	0	0	0	0	0	7	
+Namibia	0	0	0	0	26	154	0	0	0	0	0	0	0	
+Nepal			0						0	0	1			
+Netherland Antilles					0	61	52	0						
+Netherlands	0	0	0	16	5	25	34	32	129	238	402	141	267	
+New Caledonia	0	0	0	0	0	8	0	2	1	0	0	2	0	
+New Zealand	0	6	39	12	14	13	8	1	0	36	0	57	15	
+Nicaragua	0	0	0	0	0	149	134	0	0	0	1	0	0	
+Niger	0	0	0	0	0	4	22	0	2	2	5	5	0	
+Nigeria	86	2,182	403			0	0	61	1,374	31	91	20		
+Norway	0	0	0	0	131	0	0	0	0	0	0	0	0	
+Pakistan			0	21	0	5	38	92	80	45	53	9	194	
+Papua New Guinea	0	0	0	0							8	0		
+Peru	0	0	0	0	0	0	0	0	0	0	0	0		
+Philippines	0	0	0	0	0	0	0	0	10	0	0	0	0	
+Poland	0	0	0	0	18	27	64	9	0	1	6	0	1	
+Portugal	0	0	0	0	0	0	0	0	0	0	0	1	0	
+Rwanda	0	0	0	0	0	0	7	0	0	0	0	0	0	
+Serbia and Montenegro	0	5		0										
+Singapore	0	51	0	0	0	0	0	0	0	0	0	76	32	
+Slovakia	0	0	0	0	2	0	0	0	0	0	0	0	0	
+Slovenia	6	18	39	7	4	0	6	7	0	2	8	8	51	
+South Africa	0	0	0	8	6	19	13	40	0	0	0	0	678	
+Spain	59	0	0	5	0	0	0	0	9	0	14	0	0	
+Sri Lanka	0	0	0	0	0	0	0	0	0	0	0	47		
+Sudan (North + South)	0	0	0	0	0	0		236	16	0	0			
+Sweden	0	0	0	0	0	0	76	140	50	0	72	25	17	
+Switzerland	0	0	0	0	0	0	21	0	8	0	0	0	0	
+Taipei, Chinese	0	0	0	0	0	0	0	0	0	0	0	0	1	
+Tanzania, United Republic of	0	0	0	0	0	0	4	0	0	0	0	1	4	
+Thailand	0	0	0	0	0	0	901	0	0	0	1,133	0	0	
+Togo	2	0	0	0	0		0	28	0	3	0	0	0	
+Trinidad and Tobago	0	0	0	0	0	42	60	0	2	0				
+Turkey	0	55	0	0	0	0	0	16	0	0	0	0	0	
+Uganda	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ukraine	0	0	0	0	0	0	0	4	0	0	0	0	0	
+United Arab Emirates					0		0	0						
+United Kingdom	0	2	0	0	0	27	0	0	0	7	130	136	3	
+United States of America	472	100	1,595	2,905	191	154	426	37	546	11	273	54	10	
+Uruguay	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vanuatu						0	1		0	0	0			
+Venezuela	0	0	0	0	0	25		68	0	0	0	0	0	
+Viet Nam	7	2	0	0	0	0	0	0	0	0	0	0		
+Yemen				0	0	0	0	0	0	0	0	0		
+Zimbabwe	0	1		0	0	15	0	0	0	0	0	0	0	

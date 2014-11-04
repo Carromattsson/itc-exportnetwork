@@ -1,0 +1,51 @@
+List of importing markets for a product exported by Turks and Caicos Islands Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	
+World	7,286	8,707	9,847	12,212							8,533	11,830	
+Area Nes	28	24	26	19							2,599	763	
+Argentina	0	0	0	0							0	0	
+Australia	0	0	0	0							0	0	
+Bahamas	3	24	0	0							10	0	
+Bahrain	5	0	0	0							0	0	
+Barbados	0	0	0	0							0	0	
+Belgium	0	0	0	0							0	0	
+Belize	0	0	0	0							0	0	
+Bosnia and Herzegovina	0	0	0	0							0	0	
+Canada	0	0	4	9							0	0	
+Chile	0	0	0	0							0	0	
+China	0	0	0	0							0	0	
+Colombia	0	0	0	0							0	0	
+Cuba	0	0	0	0							0	0	
+Dominica	0	0	0	0							0	0	
+Dominican Republic	2	18	0	8							0	6	
+France	0	0	0	0							0	0	
+Germany	0	0	0	0							0	0	
+Guatemala	0	0	0	1							0	0	
+Haiti	23	28	34	24							59	12	
+Honduras	0	0	0	0							0	0	
+Hong Kong, China	0	0	0	0							0	0	
+Iceland	0	0	0	0							0	0	
+India	0	0	0	0							0	0	
+Indonesia	0	0	0	0							0	0	
+Italy	0	0	0	0							0	0	
+Jamaica	3	0	0	0							0	0	
+Japan	0	0	0	0							0	0	
+Korea, Republic of	0	0	0	0							0	0	
+Luxembourg	0	0	0	0							0	0	
+Mexico	0	0	0	0							0	0	
+Netherlands	0	0	9	0							0	0	
+New Zealand	0	0	0	0							0	0	
+Panama	2	0	0	0							0	0	
+Peru	0	0	0	0							0	0	
+Saint Vincent and the Grenadines	0	0	40	0							0	0	
+Saudi Arabia	0	0	0	0							0	0	
+Singapore	0	0	0	0							0	0	
+Spain	0	0	0	0							0	0	
+Sweden	0	0	0	0							0	0	
+Switzerland	0	0	0	0							0	0	
+Thailand	0	0	0	0							0	0	
+Trinidad and Tobago	0	0	0	0							0	0	
+Ukraine	0	0	0	0							0	0	
+United Kingdom	0	6	93	0							0	0	
+United States of America	7,221	8,606	9,642	12,150							5,865	11,050	
+Uruguay	0	0	0	0							0	0	
+Venezuela	0	0	0	0							0	0	

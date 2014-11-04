@@ -1,0 +1,123 @@
+List of importing markets for a product exported by Myanmar Product: TOTAL All products
+"Importers"	"Exported value in 2010"	
+World	7,625,237	
+Afghanistan	0	
+Antigua and Barbuda	0	
+Area Nes	111	
+Argentina	6,592	
+Australia	6,529	
+Austria	7,087	
+Bahamas	0	
+Bahrain	115	
+Bangladesh	82,295	
+Belarus	0	
+Belgium	1,945	
+Belize	0	
+Benin	0	
+Botswana	477	
+Brazil	2,290	
+Brunei Darussalam	398	
+Bulgaria	5,996	
+Cabo Verde	0	
+Cameroon	23	
+Canada	10	
+Cayman Islands	0	
+Chile	13	
+China	476,272	
+Christmas Islands	0	
+Cocos (Keeling) Islands	0	
+Colombia	724	
+Comoros	0	
+Costa Rica	0	
+Côte d'Ivoire	85,213	
+Cyprus	0	
+Czech Republic	76	
+Denmark	859	
+Dominica	0	
+Dominican Republic	166	
+Egypt	3,134	
+El Salvador	0	
+Finland	0	
+France	1,298	
+Gambia	0	
+Georgia	35,858	
+Greece	234	
+Guatemala	0	
+Guinea	0	
+Guinea-Bissau	0	
+Honduras	0	
+Hong Kong, China	1,611,753	
+Hungary	111	
+Iceland	0	
+India	958,105	
+Indonesia	38,208	
+Iran (Islamic Republic of)	299	
+Iraq	23	
+Ireland	120	
+Israel	1	
+Italy	5,815	
+Japan	215,152	
+Jordan	567	
+Kenya	0	
+Korea, Republic of	125,442	
+Kuwait	65,985	
+Lao People's Democratic Republic	4	
+Lebanon	3	
+Macao, China	132	
+Malaysia	162,848	
+Mali	0	
+Malta	0	
+Mauritania	0	
+Mexico	1,245	
+Morocco	0	
+Myanmar	0	
+Namibia	0	
+Netherlands	5,187	
+New Caledonia	0	
+New Zealand	434	
+Niger	0	
+Norway	13	
+Oman	454	
+Pakistan	19,436	
+Panama	470	
+Papua New Guinea	0	
+Peru	0	
+Philippines	19,486	
+Poland	1,580	
+Portugal	41	
+Qatar	1,070	
+Romania	44	
+Russian Federation	6,487	
+Saint Helena	0	
+Sao Tome and Principe	0	
+Saudi Arabia	28,791	
+Senegal	0	
+Serbia	0	
+Seychelles	0	
+Sierra Leone	0	
+Singapore	276,306	
+South Africa	19,425	
+Spain	24,636	
+Sri Lanka	983	
+Sudan (North + South)	0	
+Suriname	0	
+Swaziland	0	
+Sweden	494	
+Switzerland	1,750	
+Taipei, Chinese	33	
+Thailand	3,177,247	
+Togo	0	
+Tokelau	0	
+Tunisia	0	
+Turkey	10,493	
+Uganda	0	
+Ukraine	150	
+United Arab Emirates	29,144	
+United Kingdom	34,775	
+United States Minor Outlying Islands	0	
+United States of America	1,693	
+Uruguay	48	
+Venezuela	207	
+Viet Nam	60,623	
+Wallis and Futuna Islands	0	
+Yemen	205	

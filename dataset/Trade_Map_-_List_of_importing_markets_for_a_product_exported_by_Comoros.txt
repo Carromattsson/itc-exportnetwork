@@ -1,0 +1,136 @@
+List of importing markets for a product exported by Comoros Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	
+World	7,687	9,346	6,479	7,907	3,741	2,589	8,533	5,420	12,588	
+Afghanistan	0	0	0	0	0	0	0	0	0	
+Algeria	0	0	0	0	0	0	0	0	0	
+Andorra	0	0	0	0	0	0	0	0	0	
+Antigua and Barbuda	0	0	0	0	0	0	0	0	0	
+Area Nes	0	0	0	202	5	0	6,826	22	0	
+Argentina	0	0	0	0	0	0	0	0	0	
+Armenia	0	0	0	0	0	0	0	3	0	
+Australia	0	0	0	0	0	0	0	0	0	
+Azerbaijan	0	0	0	0	0	0	0	0	0	
+Bahamas	0	0	0	0	0	0	0	0	0	
+Bangladesh	0	0	0	0	0	0	0	0	0	
+Belgium	0	0	0	0	0	6	0	24	22	
+Benin	0	0	0	0	0	0	0	0	0	
+Bermuda	0	0	0	0	0	0	0	0	0	
+Bhutan	0	0	0	0	0	0	0	0	0	
+Bolivia	0	0	0	0	0	0	0	0	0	
+Botswana	0	0	0	0	0	0	0	0	0	
+Brazil	0	0	0	0	0	0	0	0	0	
+Bulgaria	0	0	0	0	0	0	0	0	0	
+Cameroon	0	0	0	0	0	0	0	3	0	
+Canada	5	0	206	0	0	0	0	0	23	
+Cayman Islands	0	0	0	0	0	0	0	0	0	
+Central African Republic	0	0	0	0	0	0	0	0	9	
+Chad	0	0	0	0	0	0	0	0	0	
+Chile	0	0	0	0	0	0	0	0	0	
+China	0	0	0	0	0	0	0	289	277	
+Colombia	0	0	0	0	0	0	0	0	0	
+Comoros	0	0	0	0	0	0	0	0	0	
+Congo	0	0	0	0	14	2	0	0	0	
+Côte d'Ivoire	0	0	0	0	0	0	0	0	0	
+Czech Republic	0	0	0	0	0	0	0	0	0	
+Democratic Republic of the Congo	0	0	0	1	0	0	0	0	0	
+Denmark	0	0	0	0	0	0	0	0	0	
+Djibouti	0	0	3	0	0	0	0	0	0	
+Ecuador	0	0	59	0	0	0	0	0	0	
+Egypt	0	0	0	0	3	0	6	14	23	
+El Salvador	0	0	0	0	0	0	0	0	0	
+Eritrea	0	0	0	0	0	0	0	0	0	
+Ethiopia	0	0	0	0	0	0	0	3	0	
+Finland	0	0	0	0	0	0	0	0	0	
+France	6,092	4,130	4,531	1,002	2,802	1,376	1,017	2,300	5,480	
+French Polynesia	0	0	0	0	0	0	0	0	0	
+Gambia	0	0	0	0	0	0	0	0	0	
+Germany	285	1,283	329	75	349	294	334	421	442	
+Ghana	0	0	0	0	0	0	0	0	0	
+Greece	0	0	0	0	0	0	0	24	163	
+Guinea	0	0	0	1	0	0	0	0	0	
+Honduras	0	0	0	0	0	0	0	22	0	
+Hong Kong, China	0	0	2	6	48	0	0	0	0	
+Hungary	0	0	0	0	0	0	0	0	0	
+Iceland	0	0	0	0	0	0	0	0	0	
+India	0	0	0	26	227	444	104	72	94	
+Indonesia	0	0	0	0	0	0	0	0	0	
+Iran (Islamic Republic of)	0	0	0	0	0	0	0	0	0	
+Iraq	0	0	0	0	0	0	0	0	0	
+Ireland	0	0	0	0	0	0	0	0	0	
+Israel	0	0	0	0	0	0	0	0	0	
+Italy	0	0	0	0	0	0	0	16	93	
+Jamaica	0	0	0	0	0	0	0	1	0	
+Japan	0	0	393	68	15	0	0	0	18	
+Jordan	0	0	0	0	0	0	0	0	0	
+Kenya	0	0	3	0	4	0	0	39	18	
+Korea, Democratic People's Republic of	0	0	0	0	0	0	0	0	0	
+Korea, Republic of	0	0	0	0	0	0	0	0	0	
+Kuwait	0	0	0	0	0	0	0	2	1	
+Kyrgyzstan	0	0	0	0	0	0	0	0	0	
+Lao People's Democratic Republic	0	0	0	0	0	0	0	0	0	
+Lebanon	0	0	0	0	0	0	0	0	0	
+Libya	0	0	0	0	0	0	0	0	0	
+Luxembourg	0	0	0	0	0	0	0	0	0	
+Macedonia, The Former Yugoslav Republic of	0	0	0	0	0	0	0	0	0	
+Madagascar	60	121	60	4	37	17	0	168	334	
+Malaysia	0	0	0	0	0	0	0	0	2	
+Malta	0	0	0	0	0	0	0	0	0	
+Mauritania	0	0	0	0	0	0	0	0	0	
+Mauritius	0	1	331	52	82	4	10	7	413	
+Mayotte	40	11	52	57	0	0	0	117	3	
+Morocco	0	0	0	0	0	0	0	0	0	
+Mozambique	0	0	0	0	0	0	0	0	0	
+Namibia	0	0	0	0	0	0	0	0	0	
+Netherland Antilles	0	0	0	0	0	0	0	6	0	
+Netherlands	0	0	0	0	0	0	24	239	775	
+Neutral Zone	0	0	0	0	0	0	0	0	0	
+New Caledonia	0	0	0	0	0	0	0	0	0	
+New Zealand	0	0	0	0	0	0	0	0	0	
+Niger	0	0	43	0	0	0	0	0	0	
+Northern Mariana Islands	0	0	0	0	0	0	0	0	0	
+Norway	0	0	0	0	0	0	0	0	0	
+Oman	0	0	0	0	0	0	0	0	0	
+Pakistan	0	0	0	0	12	13	0	56	47	
+Paraguay	0	0	0	0	0	0	0	0	0	
+Philippines	0	0	0	0	0	0	0	0	0	
+Poland	0	0	0	0	0	0	0	0	0	
+Qatar	0	0	0	0	0	0	0	0	0	
+Republic of Moldova	0	0	0	0	0	0	0	6	6	
+Romania	0	0	0	0	0	0	0	0	0	
+Russian Federation	0	0	0	0	0	0	0	0	21	
+Rwanda	0	0	0	0	0	0	0	0	0	
+Saint Lucia	0	0	0	0	0	0	0	0	0	
+Sao Tome and Principe	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	1	0	0	0	0	0	73	
+Senegal	0	0	0	0	0	0	0	4	0	
+Seychelles	0	0	0	0	0	0	0	0	0	
+Singapore	136	60	0	156	58	182	113	663	3,013	
+Somalia	0	0	0	0	0	0	0	0	0	
+South Africa	0	0	28	14	4	37	0	22	84	
+Spain	0	0	0	0	0	0	0	22	0	
+Sudan (North + South)	4	3	2	0	9	0	16	0	81	
+Suriname	0	0	0	0	0	0	0	0	0	
+Swaziland	0	0	0	0	0	0	0	0	0	
+Sweden	0	0	0	0	0	0	0	0	0	
+Switzerland	0	0	0	0	0	0	0	0	0	
+Syrian Arab Republic	0	0	0	0	0	0	0	43	0	
+Taipei, Chinese	0	0	0	0	0	0	0	0	0	
+Tanzania, United Republic of	0	0	4	1	3	0	0	91	47	
+Thailand	0	0	0	0	0	0	0	0	0	
+Timor-Leste	0	0	0	0	0	0	0	0	0	
+Togo	0	18	0	0	0	0	0	0	0	
+Trinidad and Tobago	0	0	0	0	0	0	0	0	0	
+Tunisia	0	0	0	0	0	0	0	1	1	
+Turkey	0	0	0	0	0	0	0	0	0	
+Turkmenistan	0	0	0	0	0	0	0	0	0	
+Turks and Caicos Islands	0	0	0	0	0	0	0	0	0	
+Tuvalu	0	0	0	0	0	0	0	0	0	
+United Arab Emirates	211	123	4	56	64	191	54	36	189	
+United Kingdom	237	936	0	0	0	6	0	74	23	
+United States Minor Outlying Islands	0	0	0	5,502	0	0	0	0	0	
+United States of America	618	2,658	0	683	0	0	0	243	428	
+Uruguay	0	0	0	0	0	0	0	0	0	
+Venezuela	0	0	0	0	0	0	0	0	0	
+Viet Nam	0	0	0	0	0	0	0	367	341	
+Yemen	0	0	427	0	3	14	28	0	43	
+Zimbabwe	0	0	0	0	0	0	0	0	0	

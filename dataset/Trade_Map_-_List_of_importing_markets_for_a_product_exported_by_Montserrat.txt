@@ -1,0 +1,95 @@
+List of importing markets for a product exported by Montserrat Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+World	722	1,411	1,774	4,239	1,442	1,311	2,701	4,060	3,148			1,791	5,962	
+Anguilla	8	1	5	1,122	10	152	1,185	1,563	480			319	242	
+Antigua and Barbuda	272	589	834	595	431	354	204	60	77			269	285	
+Area Nes	27	16	31	0	0	0	0	0	0			0	0	
+Argentina	0	0	0	0	0	0	0	0	0			0	0	
+Aruba	0	0	0	0	0	0	0	0	0			0	0	
+Australia	0	0	0	0	0	0	14	0	0			0	0	
+Austria	0	0	0	0	0	0	0	0	0			0	0	
+Bahamas	0	0	0	419	107	0	0	0	0			0	0	
+Bangladesh	0	0	0	0	0	0	0	0	0			0	0	
+Barbados	2	14	15	0	24	2	8	9	0			8	0	
+Belgium	0	0	0	0	0	0	0	0	0			0	0	
+Belize	0	0	0	0	0	0	0	0	0			0	0	
+Bermuda	0	0	0	0	0	0	0	0	0			0	0	
+Brazil	0	0	0	0	0	0	0	0	0			0	0	
+British Virgin Islands	14	9	2	23	9	18	3	0	208			221	287	
+Bulgaria	0	0	0	0	0	0	0	0	0			0	0	
+Canada	2	5	7	0	3	4	2	0	0			0	0	
+Cayman Islands	0	0	0	0	0	0	0	0	0			0	0	
+Chile	0	0	0	0	0	0	0	0	0			0	0	
+China	0	0	0	0	0	0	0	0	0			0	0	
+Colombia	0	0	0	0	0	0	0	0	0			0	0	
+Costa Rica	0	0	0	0	0	0	0	0	0			0	0	
+Czech Republic	0	0	0	0	0	0	0	0	0			0	0	
+Denmark	0	0	0	0	0	0	0	0	0			0	0	
+Dominica	34	10	3	1	7	42	28	63	381			6	3,277	
+Dominican Republic	0	0	0	0	0	0	0	0	0			0	0	
+Egypt	0	0	0	0	0	0	0	0	0			0	0	
+El Salvador	0	0	0	0	0	0	0	0	0			0	0	
+Finland	0	0	0	0	0	0	0	0	0			0	0	
+France	0	0	0	0	17	0	19	0	133			238	156	
+Germany	0	0	6	0	0	0	0	0	0			0	0	
+Grenada	0	0	2	0	0	0	0	0	0			0	0	
+Guatemala	0	0	0	0	0	0	0	0	0			0	0	
+Guyana	0	0	0	2	0	1	20	15	0			0	0	
+Honduras	0	0	0	0	0	0	0	0	0			0	0	
+Hong Kong, China	0	0	0	0	0	0	0	0	0			0	0	
+Hungary	0	0	0	0	0	0	0	0	0			0	0	
+Iceland	0	0	0	0	0	0	0	0	0			0	0	
+India	0	0	0	0	0	0	0	0	0			0	0	
+Indonesia	0	0	0	0	0	0	0	0	0			0	0	
+Iran (Islamic Republic of)	0	0	0	0	0	0	0	0	0			0	0	
+Ireland	0	0	0	0	0	0	0	0	0			0	0	
+Israel	0	21	12	0	0	0	0	0	0			0	0	
+Italy	0	0	0	0	0	0	0	0	0			0	0	
+Jamaica	0	1	0	2	0	77	0	0	0			2	0	
+Japan	0	1	0	0	0	1	0	0	0			0	0	
+Korea, Democratic People's Republic of	0	0	0	0	0	0	0	0	0			0	0	
+Korea, Republic of	0	0	0	0	0	0	0	0	0			0	0	
+Malaysia	0	0	0	0	0	0	0	0	0			0	0	
+Mali	0	0	0	0	0	0	0	0	0			0	0	
+Mexico	0	0	0	0	0	0	0	0	0			0	0	
+Netherland Antilles	27	108	6	21	36	208	103	101	211			17	22	
+Netherlands	2	8	0	0	0	0	0	0	0			9	16	
+New Zealand	0	0	0	0	132	0	0	0	247			0	0	
+Northern Mariana Islands	0	0	0	0	0	0	0	0	0			0	0	
+Norway	0	0	0	0	0	0	0	0	0			22	0	
+Pakistan	0	0	0	0	0	0	0	0	0			0	0	
+Panama	0	0	0	0	0	0	0	0	0			0	0	
+Paraguay	0	0	0	0	0	0	0	0	0			0	0	
+Peru	0	0	0	0	0	0	0	0	0			0	0	
+Philippines	0	0	0	0	0	0	0	0	0			0	0	
+Portugal	0	0	0	0	0	0	0	0	0			0	0	
+Romania	0	0	0	0	0	0	0	0	0			0	0	
+Russian Federation	0	0	0	0	0	0	0	0	0			0	0	
+Saint Kitts and Nevis	110	48	63	50	43	65	763	521	366			274	260	
+Saint Lucia	7	66	25	122	0	0	1	2	0			0	0	
+Saint Vincent and the Grenadines	0	10	0	1	12	0	0	9	10			0	0	
+Saudi Arabia	0	0	0	0	0	0	0	0	0			0	0	
+Serbia and Montenegro	0	0	0	0	0	0	0	0	0			0	0	
+Sierra Leone	0	0	0	0	0	0	0	0	0			0	0	
+Singapore	0	0	0	0	0	0	0	0	0			0	0	
+Somalia	0	0	0	0	0	0	0	0	0			0	0	
+South Africa	0	0	0	0	0	0	0	0	0			0	0	
+Spain	0	0	0	0	0	0	0	0	0			0	0	
+Sri Lanka	0	0	0	0	0	0	0	0	0			0	0	
+Suriname	0	0	0	0	0	0	0	0	18			0	0	
+Sweden	0	21	0	0	0	0	0	0	0			0	0	
+Switzerland	0	0	8	0	0	0	0	0	0			0	0	
+Taipei, Chinese	0	0	0	0	0	0	0	0	0			0	0	
+Thailand	0	0	0	0	0	0	0	0	0			0	0	
+Togo	0	0	0	0	0	0	0	0	0			0	0	
+Trinidad and Tobago	27	124	13	1,420	34	136	84	620	481			106	175	
+Turkey	0	0	0	0	0	0	0	0	0			0	0	
+Turks and Caicos Islands	0	1	0	0	0	0	0	4	0			0	0	
+Ukraine	0	0	0	0	0	0	0	0	0			0	0	
+United Arab Emirates	0	0	0	0	0	0	0	0	0			0	0	
+United Kingdom	124	176	134	266	239	198	166	119	153			48	8	
+United States Minor Outlying Islands	0	0	0	0	0	0	0	0	0			0	0	
+United States of America	68	180	608	194	340	54	102	974	384			252	1,233	
+Uruguay	0	0	0	0	0	0	0	0	0			0	0	
+Venezuela	0	0	0	0	0	0	0	0	0			0	0	
+Viet Nam	0	0	0	0	0	0	0	0	0			0	0	

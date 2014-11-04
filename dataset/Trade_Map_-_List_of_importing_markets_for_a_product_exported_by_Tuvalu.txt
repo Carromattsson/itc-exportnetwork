@@ -1,0 +1,32 @@
+List of importing markets for a product exported by Tuvalu Product: TOTAL All products
+"Importers"	"Exported value in 2002"	
+World	138	
+Australia	31	
+Brazil	0	
+China	0	
+Fiji	81	
+Finland	0	
+France	0	
+Germany	0	
+Hong Kong, China	0	
+India	0	
+Indonesia	0	
+Italy	0	
+Japan	8	
+Korea, Republic of	0	
+Malaysia	0	
+Nauru	0	
+New Zealand	16	
+Norway	0	
+Pakistan	0	
+Philippines	0	
+Singapore	0	
+South Africa	0	
+Switzerland	0	
+Taipei, Chinese	0	
+Thailand	0	
+Turkey	0	
+United Kingdom	0	
+United States of America	2	
+Vanuatu	0	
+Viet Nam	0	

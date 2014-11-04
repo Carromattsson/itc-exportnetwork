@@ -1,0 +1,120 @@
+List of importing markets for a product exported by Sao Tome and Principe Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+World	2,623	4,990	6,629	3,553	3,416	3,874	6,729	10,632	8,117	6,381	11,042	6,047	6,938	
+Albania	0	0	0	0	0	0	0	0	0	0	22	0	0	
+Algeria	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Angola	30	106	109	64	137	60	2,291	4,999	1,920	84	886	73	257	
+Antigua and Barbuda	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Area Nes	18	11	0	0	4	320	68	18	406	420	4,275	0	0	
+Armenia	0	0	0	0	0	0	0	0	0	0	24	0	4	
+Australia	0	0	0	0	0	0	0	0	0	0	73	0	0	
+Austria	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Bahamas	176	0	0	0	0	109	7	167	35	6	0	0	0	
+Bangladesh	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Belarus	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Belgium	322	651	996	336	370	552	678	445	1,175	1,353	1,720	357	1,426	
+Bosnia and Herzegovina	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brazil	0	0	0	0	0	0	0	15	0	25	0	51	97	
+British Virgin Islands	0	0	0	0	0	0	0	0	0	0	0	0	2	
+Bulgaria	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cabo Verde	0	0	0	0	0	2	4	0	0	0	0	0	14	
+Cambodia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cameroon	0	0	0	0	0	56	0	11	41	8	44	146	12	
+Canada	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cayman Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Central African Republic	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Chad	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Chile	0	0	0	0	0	0	0	0	0	0	0	0	0	
+China	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christmas Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cocos (Keeling) Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Colombia	0	0	0	0	0	0	0	0	2	0	0	0	0	
+Comoros	0	0	0	0	0	0	1	0	0	0	38	0	0	
+Cook Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Côte d'Ivoire	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cuba	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Czech Republic	0	0	0	0	0	0	0	0	0	0	0	10	14	
+Denmark	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Dominica	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Egypt	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Equatorial Guinea	4	0	0	0	26	0	12	0	0	0	13	19	0	
+Ethiopia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Faroe Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Finland	0	0	0	0	0	0	1	0	0	0	0	0	0	
+France	38	41	256	86	63	367	682	385	163	20	193	554	829	
+French Polynesia	0	0	0	0	0	17	0	0	245	0	0	0	0	
+Gabon	31	31	18	148	14	15	92	102	25	17	62	59	65	
+Gambia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Germany	23	0	0	0	23	0	0	0	0	24	174	154	303	
+Ghana	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gibraltar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Guatemala	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Guinea-Bissau	0	0	0	0	0	0	0	0	0	0	0	2	0	
+Guyana	0	0	0	35	0	0	0	0	0	0	0	0	0	
+Hong Kong, China	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Hungary	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Iceland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+India	0	0	0	0	0	0	0	0	0	0	21	0	0	
+Indonesia	0	0	0	0	0	0	0	0	38	0	0	0	0	
+Israel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Italy	0	0	0	6	0	0	0	0	239	66	91	97	77	
+Jamaica	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Japan	5	7	10	0	80	0	0	0	0	0	0	0	0	
+Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Korea, Democratic People's Republic of	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Korea, Republic of	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lao People's Democratic Republic	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lebanon	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Libya	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macao, China	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Malaysia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Malta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Mexico	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Montserrat	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Morocco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Mozambique	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Namibia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Nauru	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Netherland Antilles	0	0	0	0	0	0	0	0	67	0	0	0	0	
+Netherlands	1,243	2,997	2,568	1,834	1,316	1,044	513	1,585	1,672	1,013	2,262	2,615	2,029	
+Neutral Zone	0	0	0	0	0	0	0	0	0	0	0	0	0	
+New Zealand	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Niger	0	0	0	0	0	0	0	0	0	1	0	0	0	
+Nigeria	2	0	4	39	51	37	3	18	34	259	32	36	37	
+Norway	0	43	0	0	0	0	0	0	0	294	0	0	0	
+Pakistan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Panama	0	70	0	0	0	0	0	0	0	0	0	0	0	
+Papua New Guinea	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Paraguay	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Portugal	421	978	2,416	910	1,332	1,295	2,311	2,826	2,054	2,722	875	428	436	
+Qatar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Russian Federation	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rwanda	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Saint Lucia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Senegal	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Seychelles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Singapore	0	0	0	0	0	0	0	0	0	0	82	0	0	
+Somalia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+South Africa	0	26	58	25	0	0	6	10	0	1	29	0	5	
+Spain	300	29	0	69	0	0	20	0	0	3	102	615	789	
+Sri Lanka	0	0	0	0	0	0	39	25	0	0	0	0	0	
+Swaziland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sweden	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Switzerland	0	0	0	0	0	0	0	0	0	0	4	26	123	
+Syrian Arab Republic	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Taipei, Chinese	0	0	0	0	0	0	0	0	2	0	0	0	7	
+Tanzania, United Republic of	0	0	0	0	0	0	0	0	0	29	0	0	0	
+Thailand	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Timor-Leste	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Togo	0	0	0	0	0	0	0	14	0	0	0	211	1	
+Tunisia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Turkey	0	0	0	0	0	0	0	0	0	0	0	554	346	
+Turks and Caicos Islands	0	0	0	0	0	0	0	0	0	0	0	0	0	
+United Arab Emirates	0	0	0	0	0	0	0	0	0	5	0	0	0	
+United Kingdom	0	0	0	0	0	0	0	0	0	0	0	0	0	
+United States Minor Outlying Islands	11	0	0	0	0	0	0	0	0	0	0	0	0	
+United States of America	0	0	192	0	0	0	0	11	0	32	18	39	66	
+Viet Nam	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Western Sahara	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Zimbabwe	0	0	0	0	0	0	0	0	0	0	0	0	0	

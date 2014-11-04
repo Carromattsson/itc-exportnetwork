@@ -1,0 +1,15 @@
+List of importing markets for a product exported by LAIA not elsewhere specified (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	642,457	1,329,056	470,854	71,755	200,762	29,519	5,196	53,437	5,047	6,272	13,473	16,915	3,678	
+Bangladesh	3,709	3,898	0	0	0	0	0							
+Central African Republic	0	9	0			0	0	0	0	0	0	0	0	
+China	94	5	0	0	0	0	0	192	0	0	0	3	0	
+Egypt	0	0	0	0	0	125	47	0	3,311	2,070	3,816	3,445	3,678	
+Hong Kong, China	4,603	11,503	3,439	7,756	0	0	5,149	2,875	1,736	4,202	9,657	13,467		
+Iran (Islamic Republic of)	0	0	0	0	0	0				0	0			
+Israel	204	2	0	88	1	8	0	0	0	0	0	0	0	
+Netherlands	633,847	1,313,639	467,415	63,911	200,761	29,386	0	50,370	0	0	0	0	0	
+Panama	0	0	0		0	0	0	0	0	0	0			
+Qatar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	0	0	0	0	0	0	0	0	0	0		
+Venezuela	0	0	0	0	0	0		0	0	0	0	0	0	

@@ -1,0 +1,87 @@
+List of importing markets for a product exported by Mayotte (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	2,343	30,712	5,222	5,027	4,286	3,768	7,289	13,723	11,589	9,166	15,468	28,449	26,782	
+Andorra	0	0	0	8										
+Argentina	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Austria	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Belgium	0	0	45	26	166	41	5	0	7	18	447	57	1	
+Benin	0	0	0	0	0	0	0	0	0	0	0	0	6	
+Bolivia	0	0	0	0	0	0	0	0	0	0	0	1		
+Bosnia and Herzegovina			0	0	0	7	0	0	0	0	0	0	0	
+Bulgaria	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Burkina Faso	0	0	0	0	0		0	0	0	0	0	0		
+Cambodia	0	0	0	0	0	0	0	0	0	0	0	0		
+Cameroon	0	0	0	0	5	0	0	0	0	0	0	0		
+China	0	0	0	0	0	0	0	0	1	4	0	112	1	
+Comoros	173	672	642	524	0	0	0	535	897					
+Costa Rica	0	0	0	9	0	0	0	2	0	0	0	0	1	
+Côte d'Ivoire	0	0	0	0	0	0	0	0	0	0	0	0		
+Croatia	0	3	0	1	1	24	23	3	1	3	1	13	0	
+Cyprus	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Czech Republic	0	0	0	47	715	0	0	3	1	0	0	0	0	
+Denmark	0	0	0	0	0	1	0	0	0	28	15	2	0	
+Dominican Republic	0	0	0	0	0	0	18	5	67	57	14	4	2	
+Ecuador	0	60	0	0	0	0	0	0	0	0	0	0	0	
+Estonia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Faroe Islands	0	0	0	2	0	0	1	1	0					
+Finland	0	0	0	0	0	1	0	7	8	15	1	0	0	
+France	1,648	29,077	3,589	3,677	2,964	2,679	3,004	3,640	3,092	2,533	6,103	9,814	7,814	
+French Polynesia	0	0	0	0	0	0	0	0	0	0	2	0	0	
+Germany	23	249	26	25	59	19	107	1	70	7	29	0	6	
+Greece	0	20	8	1	49	0	0	1	0	0	0	0	0	
+Guatemala	0	0	0	0	0	0	0	0	0	0	0	11	0	
+Guinea	0	0		0	0	0	5	0		0	0	0		
+Honduras	0	0	0	0	0	0	0	0	1	0	0	0	0	
+Hungary	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Indonesia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ireland	0	22	0	0	0	0	426	0	0	0	0	0	0	
+Israel	0	0	0	0	0	0	0	0	0	1	0	0	0	
+Italy	0	551	771	0	25	0	0	788	1,476	3,011	785	3,186	2,152	
+Kenya	0	0	0	0	0	0	0	0	0	0	0			
+Korea, Republic of	0	0	0	0	0	17	0	1	0	0	0	0	16	
+Latvia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lithuania	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luxembourg	0	0	0	0	0	88	0	0	1	0	0	0	14	
+Madagascar	0	0	0	0	39	66	18	1,797	1,503	723	492	150	105	
+Malaysia	0	0	0	0	1	0	0	0	0	28	1	0	32	
+Malta	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Mauritius	0	0	0	0	0	409	2,237	880	1,531	424	2,509	4,407	394	
+Mayotte	3	0	0	0	0	0	0	0	0					
+Montenegro						20	0	0	0	0	0	0	0	
+Morocco	0	0	0	0	13	0	0	0	7	0	0	0	0	
+Namibia	0	0	0	6	0	0	0	0	0	0	0	0	0	
+Netherlands	10	0	0	0	4	3	1	0	4	25	12	16	37	
+New Caledonia	0	0	0	0	0	0	0	0	0	147	55	61	46	
+New Zealand	0	0	0	0	0	6	0	0	0	1	0	0	0	
+Norway	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Pakistan			0	0	6	0	1	30	0	354	56	130	38	
+Paraguay	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Peru	0	0	0	0	10	0	0	4	0	0	0	0		
+Philippines	0	0	0	5	0	0	0	0	0	0	0	0	0	
+Poland	0	0	0	34	6	26	2	2	66	13	1	2	1	
+Portugal	0	0	0	0	0	0	0	0	0	0	0	2	0	
+Republic of Moldova	0	0	0	0	0	0	0	0	0	0	30	0	0	
+Romania	0	0	0	91	1	5	0	0	86	0	0	0	0	
+Russian Federation	0	0	0	0	0	2	0	0	0	0	0	1	15	
+Rwanda	0	0	0	0	0	0	0	0	40	0	0	0	0	
+Saudi Arabia	0	0	0	0	0	1	0	0	0	0	0	0		
+Serbia and Montenegro	0	0		9										
+Sierra Leone		25												
+Singapore	0	0	0	0	0	0	0	0	0	0	54	10	48	
+Slovakia	0	0	0	0	17	0	0	0	0	1	96	0	0	
+Slovenia	0	0	0	1	0	0	0	0	0	0	1	0	0	
+South Africa	0	0	0	0	0	0	1	3	2	2	12	9	1	
+Spain	6	1	52	19	0	21	1,091	5,534	1,892	153	4,127	10,432	13,344	
+Sudan (North + South)	0	0	0	0	0	0		112	0	0	36			
+Sweden	0	0	0	0	0	0	0	0	0	40	0	0	0	
+Switzerland	0	0	0	44	0	0	0	6	0	2	1	1	0	
+Taipei, Chinese	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thailand	0	24	0	498	196	303	18	20	3	0	2	0	0	
+Togo	0	0	0	0	0		0	0	0	0	0	3	0	
+Tunisia	0	0	0	0	0	0	1	0	0	0	0	0	0	
+Turkey	0	0	0	0	0	0	2	323	780	1,510	566	0	2,608	
+Ukraine	0	0	0	0	0	0	1	0	0	0	0	0	0	
+United Kingdom	475	0	0	0	9	13	14	8	0	1	0	0	83	
+United States of America	4	3	58	0	0	16	312	17	53	65	20	25	17	
+Uruguay	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Viet Nam	1	5	31	0	0	0	0	0	0	0	0	0		

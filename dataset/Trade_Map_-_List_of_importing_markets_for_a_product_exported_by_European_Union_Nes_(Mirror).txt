@@ -1,0 +1,20 @@
+List of importing markets for a product exported by European Union Nes (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	162,625	361	522	368,314	0	0	0	0	0	308	0	0	577,677	
+Botswana	179	0	0	0	0	0	0	0	0	0	0	0	0	
+Brunei Darussalam	0	0	0	0		0				302	0	0	0	
+Ethiopia	0	0	80	0	0	0	0	0	0	0	0	0		
+Guinea	5	0		0	0	0	0	0		0	0	0		
+Jordan	162,304	0	0	0		0	0	0	0	0	0	0	0	
+Kenya	0	63	26	86	0	0	0	0	0	0	0			
+Latvia	0	0	0	170,888	0	0	0	0	0	0	0	0	0	
+Lebanon	137	85	416	0	0	0	0	0	0	0	0	0	0	
+Lesotho	0	0	0					0	0	6				
+Madagascar	0	0	0	0	0	0	0	0	0	0	0	0	233,278	
+Mexico	0	0	0	0	0	0	0	0	0	0	0	0	78,593	
+Nicaragua	0	13	0	0	0	0	0	0	0	0	0	0	0	
+Pakistan			0	197,340	0	0	0	0	0	0	0	0	0	
+Russian Federation	0	0	0	0	0	0	0	0	0	0	0	0	93,375	
+Saudi Arabia	0	0	0	0	0	0	0	0	0	0	0	0		
+Senegal	0	0	0	0	0	0	0	0	0	0	0	0	172,431	
+Sierra Leone		200												

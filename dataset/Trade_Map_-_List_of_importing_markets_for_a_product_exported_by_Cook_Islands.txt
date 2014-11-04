@@ -1,0 +1,50 @@
+List of importing markets for a product exported by Cook Islands Product: TOTAL All products
+"Importers"	"Exported value in 2005"	
+World	5,239	
+Area Nes	13	
+Australia	370	
+Belgium	10	
+Brazil	0	
+Canada	64	
+Chile	0	
+China	1,773	
+Fiji	40	
+France	0	
+French Polynesia	0	
+Gambia	0	
+Germany	235	
+Hong Kong, China	132	
+Hungary	9	
+Iceland	0	
+India	0	
+Indonesia	7	
+Israel	0	
+Italy	67	
+Japan	1,612	
+Korea, Republic of	0	
+Malaysia	11	
+Mali	0	
+Malta	0	
+Netherlands	0	
+New Zealand	674	
+Niue	1	
+Norway	9	
+Pakistan	0	
+Palau	3	
+Papua New Guinea	0	
+Philippines	0	
+Poland	0	
+Romania	0	
+Samoa	2	
+Saudi Arabia	17	
+Singapore	0	
+Sweden	5	
+Switzerland	20	
+Taipei, Chinese	0	
+Thailand	0	
+Tonga	1	
+United Arab Emirates	0	
+United Kingdom	0	
+United States Minor Outlying Islands	7	
+United States of America	155	
+Viet Nam	0	

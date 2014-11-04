@@ -1,0 +1,5 @@
+List of importing markets for a product exported by Caribbean Nes (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	667	638	1,153	0	0	0	0	0	0	0	0	0	0	
+Burkina Faso	617	79	0	0	0		0	0	0	0	0	0		
+Central African Republic	50	559	1,153			0	0	0	0	0	0	0	0	

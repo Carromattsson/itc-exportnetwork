@@ -1,0 +1,62 @@
+List of importing markets for a product exported by Ship stores and bunkers (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	39,678	14,712	75,821	27,152	141,375	419,809	607,018	1,451,744	1,908,713	1,907,398	125,731	33,282	43,392	
+Australia	390	124	0	11,647	108,148	405,287	592,998	1,280,605	1,495,990	1,484,071	0	0	0	
+Austria	0	0	194	684	5,237	6,416	0	0	0	0	0	0	1,716	
+Bahrain	1,453	855	1,559	1,423	1,929	2,457	3,007	3,541	3,516	1,266	2,245			
+Barbados	0	0	75	124	98	80	0	6	53	0	6	0	0	
+Belgium	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brazil	0	0	15	0	0	0	0	0	0	0	0	0	0	
+Bulgaria	0	0	0	0	0	0	0	117	13	11	7	152	7	
+Cabo Verde	36	396	0	0	0	0	0		0	0	0	0	0	
+Cambodia	0	0	0	0	0	3	0	0	0	0	0	0		
+Cameroon	0	0	0	0	0	0	0	0	0	190,685	0	0		
+Congo							53	1,781	226,575	216,476	62	0	0	
+Costa Rica	0	0	0	0	0	0	0	0	86	0	0	0	0	
+Côte d'Ivoire	57	0	2	0	0	2	0	2	0	0	0	0		
+Croatia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cyprus	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Czech Republic	0	0	0	594	1,926	3,499	5,129	7,129	5,634	7,195	9,737	10,978	12,637	
+Denmark	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ecuador	0	291	0	0	0	0	0	135,982	151,582	0	0	0	0	
+Egypt	10	3	8,576	51	43	12	0	7,235	12,275	506	111,191	26	314	
+Estonia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Fiji		0	0	0	0	0	0	0	0	15	6	348		
+Finland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+France	1,927	2,122	2,040	2,556	1,674	122	23	13	11	205	171	11	0	
+Germany	26,037	400	657	718	161	258	98	1	6	4	0	0	0	
+Ghana	0		14,648		0	0	0	0	0	0	0	0		
+Greece	0	128	116	0	0	1	10	5	887	432	6	0	2	
+Greenland	0	0	0	0	0	0	0	0	0	0	0	0	2	
+Hungary	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ireland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Italy	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kenya	33	3	0	0	3	0	0	9	0	0	0			
+Kuwait	0	0	9,212	6,043		0	0	0						
+Latvia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lebanon	0	0	0	0	0	0	0	1	2	1	0	0	0	
+Lithuania	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luxembourg	0	4	0	0	0	0	0	50	25	1	0	0	0	
+Malta	0	0	0	2,201	1,003	316	1,880	588	6,228	1,931	752	1,538	26,089	
+Mauritania	2	0	0	0	0		0	0	0	0	0	0		
+Mauritius	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Morocco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Namibia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Netherlands	0	9	526	336	71	182	151	11,291	386	466	979	501	25	
+New Caledonia	0	0	0	0	0	0	0	0	0	0	0	0	1,156	
+New Zealand	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Nigeria	0	0	0			0	0	837	4,794	3,444	0	15,918		
+Panama	9,672	10,377	12,404		20,658	0	0	0	0	0	0			
+Poland	0	0	25,652	2	0	0	0	0	0	95	21	50	49	
+Portugal	0	0	13	405	0	0	3,368	1,532	0	0	1	0	0	
+Saint Lucia	0	0	0	0	0	0	0	0						
+Senegal	61	0	132	0	0	146	0	0	0	0	0	0	0	
+Seychelles	0	0	0		0	0		0						
+Slovakia	0	0	0	292	31	23	36	932	650	594	66	3,747	1,394	
+Slovenia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+South Africa	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Spain	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sri Lanka	0	0	0	76	115	168	123	87	0	0	0	0		
+Sweden	0	0	0	0	0	0	0	0	0	0	0	13	1	
+Trinidad and Tobago	0	0	0	0	0	0	0	0	0	0				
+Yemen				0	278	837	142	0	0	0	481	0		

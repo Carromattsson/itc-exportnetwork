@@ -1,0 +1,106 @@
+List of importing markets for a product exported by Sierra Leone Product: TOTAL All products
+"Importers"	"Exported value in 2002"	
+World	41,422	
+Area Nes	10	
+Argentina	0	
+Australia	0	
+Austria	0	
+Bangladesh	0	
+Belgium	15	
+Brazil	15	
+Cameroon	0	
+Canada	0	
+Cayman Islands	0	
+China	46	
+Cocos (Keeling) Islands	0	
+Côte d'Ivoire	25	
+Cyprus	0	
+Czech Republic	0	
+Denmark	0	
+Dominica	0	
+Ecuador	75	
+Egypt	0	
+Estonia	0	
+European Union Nes	0	
+Finland	0	
+France	32	
+Gabon	0	
+Gambia	0	
+Germany	28	
+Ghana	0	
+Gibraltar	0	
+Greece	0	
+Guinea	0	
+Hong Kong, China	0	
+India	11	
+Indonesia	0	
+Iran (Islamic Republic of)	0	
+Ireland	0	
+Israel	0	
+Italy	0	
+Japan	27	
+Jordan	0	
+Kenya	0	
+Korea, Republic of	0	
+Kuwait	0	
+Lebanon	0	
+Liberia	0	
+Lithuania	0	
+Luxembourg	0	
+Malawi	0	
+Malaysia	0	
+Mauritania	0	
+Mauritius	0	
+Mayotte	0	
+Micronesia (Federated States of)	0	
+Mongolia	0	
+Morocco	0	
+Myanmar	0	
+Namibia	0	
+Netherlands	0	
+New Caledonia	0	
+New Zealand	0	
+Nicaragua	0	
+Nigeria	0	
+Norway	0	
+Oceania Nes	0	
+Oman	0	
+Pakistan	0	
+Pitcairn	0	
+Poland	0	
+Portugal	0	
+Qatar	67	
+Romania	0	
+Russian Federation	76	
+Saint Helena	0	
+Saudi Arabia	172	
+Senegal	5	
+Singapore	0	
+Slovakia	0	
+Slovenia	0	
+Solomon Islands	0	
+Somalia	0	
+South Africa	25	
+Spain	0	
+Special categories	40,353	
+Sri Lanka	0	
+Sudan (North + South)	0	
+Sweden	2	
+Switzerland	0	
+Syrian Arab Republic	0	
+Taipei, Chinese	0	
+Tanzania, United Republic of	0	
+Thailand	0	
+Togo	0	
+Tokelau	0	
+Tunisia	0	
+Turkey	0	
+Turkmenistan	0	
+Uganda	0	
+Ukraine	0	
+United Arab Emirates	0	
+United Kingdom	15	
+United States Minor Outlying Islands	0	
+United States of America	426	
+Venezuela	0	
+Viet Nam	0	

@@ -1,0 +1,122 @@
+List of importing markets for a product exported by Falkland Islands (Malvinas) (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	76,484	89,265	155,178	140,864	174,839	162,305	180,860	200,945	181,853	187,291	196,048	212,108	192,188	
+Albania	0	0	0	0	0	5	508	64	42	325	28	37	0	
+Andorra	0	0	2	0										
+Armenia	0	0	0	0	0	0	5	3	0	0	28	0	0	
+Australia	8	32	0	0	0	1	47	0	22	0	4	0	48	
+Austria	58	24	26	66	28	4	32	4	0	0	0	0	6	
+Azerbaijan	0	0	0	0	0	0	0	8	0	0	0	0		
+Bahrain	0	0	0	0	0	3	0	0	0	604	0			
+Bangladesh	1,073	20	0	11	0	0	1							
+Belarus	0	0	0	6	0	19	0	75	4	1	0	0	0	
+Belgium	0	0	3	0	36	0	48	149	0	356	0	1	71	
+Benin	0	0	0	0	6	0	0	0	0	0	0	17	48	
+Bermuda												9	0	
+Bosnia and Herzegovina			158	25	117	210	434	1,498	853	576	486	366	289	
+Botswana	0	1	0	0	0	0	0	0	0	0	0	0	0	
+Brazil	0	0	2	0	1	0	0	26	0	3	1	4	5	
+Bulgaria	0	8	0	0	0	0	98	355	0	0	0	0	0	
+Burkina Faso	0	0	0	0	0		0	35	0	0	0	0		
+Cambodia	36	0	0	0	0	172	0	0	0	0	0	0		
+Canada	1	3	365	0	86	275	42	95	38	22	369	580	371	
+Costa Rica	0	0	0	0	0	0	0	0	0	1	0	0	1	
+Côte d'Ivoire	0	0	0	0	14	1	0	0	0	0	8	1		
+Croatia	141	216	2,791	3,142	8,547	7,208	8,613	9,878	6,422	6,192	7,643	7,934	1,545	
+Cyprus	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Czech Republic	0	3,328	4,408	3,451	2,354	3,885	2,228	4,570	3,928	3,672	3,826	6,521	6,076	
+Denmark	0	2	49	0	2	0	0	17,820	99	1	404	654	365	
+Dominican Republic	0	0	0	18	0	0	3	3	3	1	82	0	0	
+Ecuador	0	0	0	0	0	0	0	0	0	0	0	58	0	
+Egypt	0	0	0	0	0	0	0	0	18	97	31	51	11	
+Estonia	0	4	72	22	61	16	5	56	0	0	0	0	8	
+Ethiopia	0	0	1	257	0	0	0	0	0	0	0	0		
+Faroe Islands	7	0	125	0	0	0	0	3	105					
+Fiji		0	0	0	0	1	0	0	0	0	1	0		
+Finland	0	0	0	0	2	0	1	3	0	0	0	0	0	
+France	87	386	283	95	2	46	15	108	244	154	310	7	139	
+French Polynesia	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Georgia	0	0	4	0	0	0	0	0	0	0	220	0	0	
+Germany	59	611	347	1,267	790	479	2,110	1,144	2,447	2,373	2,937	3,514	712	
+Ghana	2		0		46	10	0	5	0	0	0	0		
+Greece	0	0	0	2,114	63	155	0	162	0	0	0	0	0	
+Greenland	0	0	5	0	0	8	0	9	5	3	2	0	9	
+Grenada	0	0	0	0	0	0	0	1						
+Guatemala	6	0	0	0	0	0	0	0	0	0	0	0	0	
+Guinea	0	2		16	0	2	1	0		0	0	0		
+Honduras	0	1	0	0	0	0	0	0	0	0	0	0	0	
+Hungary	3	8	100	536	0	0	0	70	73	0	1	3	0	
+Iceland	773	0	0	0	0	0	0	0	71	0	0	0	0	
+India	0	0	0	0	0	10	2	434	1,198	1,435	2,276	1,124	1,081	
+Indonesia	70	500	28	288	11	128	0	123	7	0	103	41	5	
+Ireland	141	75	60	12	90	1,238	841	67	15	67	270	275	283	
+Israel	0	0	0	0	0	0	0	0	127	36	0	0	0	
+Italy	488	230	5	21	3,039	63	215	378	49	132	132	80	105	
+Japan	720	2,722	1,062	598	1,634	1,030	792	319	271	1,239	1,271	844	558	
+Jordan	0	0	0	0		784	0	0	0	0	0	0	0	
+Kazakhstan	88	0	0	0	0	0	0	1	0	0	13	0	7	
+Kenya	0	0	4	0	1	0	0	0	0	0	0			
+Korea, Republic of	510	0	2	13	153	576	16	249	56	21	75	228	563	
+Latvia	0	0	0	0	0	42	40	14	17	5	0	0	0	
+Lebanon	0	70	29	0	0	23	0	0	0	1	0	0	0	
+Lithuania	5	32	41	0	92	69	668	342	0	43	94	54	0	
+Luxembourg	0	22	0	0	0	1	0	0	0	0	0	41	2	
+Macao, China	0	0	0	4	0	0	0	0	0	0		0		
+Macedonia, The Former Yugoslav Republic of	0	0	0	1	0	0	17		169	133	63	4	54	
+Madagascar	6	33	3	0	0	0	0	3	0	0	0	0	0	
+Malaysia	443	0	0	20	4	335	1	0	703	59	0	162	1,280	
+Mali	0	0	0	0	0	0	6	0		0	0	0		
+Malta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Mauritania	0	2	0	0	0		0	0	0	0	0	0		
+Mauritius	0	0	0	0	0	0	1	2	0	0	2	147	32	
+Mayotte	0	2	0	1	0	0	0	0	0					
+Mexico	4	0	0	8	90	4	0	40	0	3	1	95	7	
+Montenegro						57	409	297	160	350	797	647	631	
+Morocco	0	0	0	0	0	0	0	0	0	0	0	390	547	
+Mozambique	0	0	0	0	212	0	0	0	0	0	0	0	0	
+Namibia	0	0	0	0	0	0	0	212	0	0	6	2,310	13,573	
+Netherland Antilles					0	1	0	1						
+Netherlands	0	0	0	0	1	103	16	13	1	228	867	2,474	2,085	
+New Caledonia	0	0	0	0	0	0	0	0	0	0	1	0	0	
+New Zealand	0	7	45	0	0	0	3	0	0	1	2	0	50	
+Nicaragua	0	0	0	0	0	0	0	0	0	0	0	0	76	
+Nigeria	137	5	414			18	0	0	0	0	0	0		
+Norway	0	0	0	0	275	0	297	217	0	0	0	6	4	
+Pakistan			64	32	558	131	443	1	61	0	26	140	92	
+Palau												62		
+Palestine, State of							0	36	0	46	0	0		
+Panama	0	0	0		0	0	295	0	0	0	0			
+Papua New Guinea	0	1	0	0							0	0		
+Paraguay	0	0	0	0	0	1	0	0	0	0	123	0	0	
+Peru	0	0	0	58	0	0	0	21	0	0	0	8		
+Philippines	0	0	0	0	0	0	0	0	0	0	0	0	133	
+Poland	0	61	454	74	301	284	220	38	340	95	409	570	445	
+Portugal	0	164	17	0	0	0	0	0	0	0	0	1,061	0	
+Republic of Moldova	0	0	0	0	0	6	0	0	167	190	135	177	88	
+Romania	0	2	0	2	3,387	4,630	0	0	0	8	0	0	0	
+Russian Federation	1	0	2	0	0	123	1,016	1,060	575	0	18	16	0	
+Saint Vincent and the Grenadines	0	0	0	0	0	0	1	0	1	1	0	0		
+Saudi Arabia	0	0	0	0	0	22	1	155	13,364	0	0	0		
+Serbia					557	1,428	1,813	2,128	1,757	975	1,916	1,034	1,564	
+Serbia and Montenegro	23	31		1,243										
+Slovakia	0	0	0	2	3	11	1	0	22	67	17	20	8	
+Slovenia	1	111	244	254	95	39	860	1,885	1,640	2,096	1,835	2,256	907	
+South Africa	22	87	838	1,099	1,868	2,105	3,967	2,640	2,214	2,576	2,061	3,122	2,135	
+Spain	59,979	66,861	120,017	105,236	132,468	110,456	138,757	134,114	105,109	143,526	143,440	152,316	133,887	
+Sudan (North + South)	0	2	0	0	0	1		894	288	185	85			
+Sweden	1	1	0	0	0	0	4	0	84	220	256	227	77	
+Switzerland	2	1	2	5	0	2	4	0	162	29	193	25	0	
+Taipei, Chinese	417	1	0	2	0	69	0	83	64	34	5	2	40	
+Tanzania, United Republic of	0	0	1	4	2	0	4	36	55	0	0	0	0	
+Thailand	3	34	195	15	0	260	52	0	108	69	6	230	1,442	
+Togo	13	5	5	884	1		0	0	0	0	0	5	0	
+Tunisia	52	59	0	14	1	2	1	33	0	52	0	3	0	
+Turkey	0	14	0	60	2	386	1	118	85	4	318	96	2	
+Uganda	0	0	0	49	0	0	0	0	8	0	0	0	0	
+Ukraine	0	11	68	56	230	1,035	2,339	2,622	2,540	2,144	2,301	2,461	438	
+United Kingdom	3,809	7,137	17,305	13,022	8,182	11,902	8,654	8,834	27,449	11,307	13,549	7,343	6,493	
+United States of America	7,294	6,231	5,191	6,761	9,427	12,421	4,912	7,391	8,599	5,531	6,988	12,255	13,761	
+Vanuatu						0	0		0	0	8			
+Venezuela	0	0	0	0	0	0		0	14	0	5	0	29	
+Viet Nam	1	105	341	0	0	0	0	0	0	0	0	0		
+Zambia	0	0	0	0	0	8	0	0	0	2	0	0	0	

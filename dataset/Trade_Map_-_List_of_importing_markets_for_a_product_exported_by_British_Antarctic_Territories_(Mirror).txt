@@ -1,0 +1,11 @@
+List of importing markets for a product exported by British Antarctic Territories (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	416	21	69	185	0	0	0	0	0	0	0	0	0	
+Finland	0	0	0	7	0	0	0	0	0	0	0	0	0	
+Japan	415	3	69	0	0	0	0	0	0	0	0	0	0	
+Kenya	0	0	0	122	0	0	0	0	0	0	0			
+Malaysia	0	2	0	0	0	0	0	0	0	0	0	0	0	
+Namibia	0	16	0	0	0	0	0	0	0	0	0	0	0	
+Pakistan			0	1	0	0	0	0	0	0	0	0	0	
+Romania	1	0	0	53	0	0	0	0	0	0	0	0	0	
+Serbia and Montenegro	0	0		2										

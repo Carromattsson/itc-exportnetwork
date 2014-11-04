@@ -1,0 +1,90 @@
+List of importing markets for a product exported by Swaziland Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	
+World	781,588	1,086,820	1,654,597	2,138,809	1,277,782	1,462,822	1,113,278	
+Afghanistan	0	0	0	0	0	0	0	
+Angola	109	42	49	189	92	4	0	
+Area Nes	0	0	0	575,862	0	14	0	
+Argentina	0	0	0	0	0	0	0	
+Australia	7,326	6	52	217	441,545	2,305	2,168	
+Austria	47	0	0	0	0	0	0	
+Belgium	3	10,943	3,723	0	0	0	0	
+Bolivia	0	0	0	0	0	0	30	
+Botswana	7	0	11	108	6,616	13,071	3,272	
+Brazil	0	0	0	0	0	0	0	
+Canada	0	26,496	3,813	38,598	14,086	0	0	
+Chile	0	0	0	0	0	0	0	
+China	78,375	67,746	0	106,334	45	0	4	
+Colombia	0	0	0	0	0	6	0	
+Congo	161,520	0	0	0	0	31	121	
+Côte d'Ivoire	0	500,840	0	0	0	0	0	
+Cyprus	0	0	0	0	0	0	0	
+Czech Republic	0	0	0	0	0	0	0	
+Democratic Republic of the Congo	0	0	0	0	0	0	0	
+Denmark	0	0	0	273	0	4	0	
+Ecuador	0	0	0	0	0	0	0	
+Egypt	0	4,893	0	0	9,528	1,012	372	
+Ethiopia	0	95	0	0	0	0	0	
+France	743	3,062	21,201	20,593	8,126	28	39	
+Gambia	0	0	0	0	0	0	0	
+Germany	47	2,271	497	4,734	3,023	14	3	
+Ghana	0	1	0	0	0	0	0	
+Greece	11	0	39	4,245	0	0	7	
+Hong Kong, China	187	3	256	0	0	0	0	
+Hungary	0	0	0	0	0	0	0	
+India	0	0	51	0	859	42	399	
+Indonesia	0	0	0	0	0	1	0	
+Iran (Islamic Republic of)	0	0	0	0	0	0	0	
+Ireland	0	0	9,924	0	0	0	0	
+Israel	0	18	0	4	0	0	0	
+Italy	3,496	3	545	11,420	56	403	153,492	
+Jamaica	0	0	0	0	0	0	0	
+Japan	289	10	0	0	0	108	82	
+Kenya	0	0	10,107	3,591	21	10,309	14	
+Korea, Democratic People's Republic of	0	0	0	0	0	0	0	
+Korea, Republic of	0	0	0	0	0	0	0	
+Kuwait	0	0	31	0	0	0	0	
+Lebanon	0	0	0	0	0	0	0	
+Lesotho	0	148	8,539	0	8,020	25,577	1,328	
+Luxembourg	0	0	0	0	0	0	0	
+Madagascar	5,906	0	0	134,406	23	82	82	
+Malawi	376	6,799	1,256	104	677	4,589	19	
+Malaysia	0	0	0	0	0	0	0	
+Malta	0	0	0	0	0	0	0	
+Mauritania	0	0	0	0	0	0	0	
+Mauritius	1,283	2,218	12,991	8,998	419	1,515	153	
+Mexico	770	0	0	0	0	1	0	
+Montserrat	0	0	0	1,048	1,098	0	0	
+Morocco	0	0	0	0	0	0	284	
+Mozambique	41,678	112,688	120,818	159,911	96,605	247,437	20,214	
+Namibia	8	75	4,708	446	8,299	11,461	31,131	
+Netherlands	0	9	183	109	919	177	6	
+New Zealand	0	0	177	0	421	22,934	892	
+Nigeria	19,316	62	0	0	0	0	0	
+Norway	0	193	0	0	0	1	0	
+Pakistan	0	0	0	10,355	29	49	0	
+Philippines	0	0	15	0	368	0	0	
+Poland	0	0	0	0	0	0	0	
+Portugal	2	5,609	8,562	0	5,619	12	0	
+Sao Tome and Principe	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	0	0	0	0	0	
+Senegal	0	0	0	0	0	0	6	
+Serbia	0	0	0	0	0	164	0	
+Seychelles	0	0	0	0	0	0	0	
+Singapore	0	88	2,038	6	0	34	0	
+South Africa	429,068	205,903	521,502	907,749	478,828	446,124	888,546	
+Spain	74	12,539	31	11,512	170	47	0	
+Sri Lanka	0	0	0	0	0	0	0	
+Sweden	0	0	0	0	0	47	0	
+Switzerland	0	721	118	0	0	3,272	1,138	
+Taipei, Chinese	0	2,400	582,407	2	17	0	0	
+Tanzania, United Republic of	64	33	1	0	0	6	5	
+Thailand	0	0	0	0	0	0	0	
+Turkey	0	0	3,667	2,243	5,209	0	0	
+Uganda	0	51,852	0	2	0	246,672	0	
+United Arab Emirates	0	0	0	0	0	1,323	5,575	
+United Kingdom	8,917	4,461	925	135	128,375	4,574	1,303	
+United States of America	12,796	64,310	217,540	135,430	56,166	48,855	1,136	
+Viet Nam	0	0	0	0	0	0	0	
+Western Sahara	0	0	0	0	0	0	0	
+Zambia	6,900	1	950	85	1,937	1,492	1,455	
+Zimbabwe	2,267	283	117,870	100	587	369,022	0	

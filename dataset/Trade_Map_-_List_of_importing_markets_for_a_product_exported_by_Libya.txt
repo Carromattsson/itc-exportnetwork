@@ -1,0 +1,123 @@
+List of importing markets for a product exported by Libya Product: TOTAL All products
+"Importers"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	
+World	32,503,487	44,696,436	27,255,515	36,440,414	
+Africa not elsewhere specified	0	5,100	0	0	
+Albania	0	0	0	0	
+Algeria	17,117	10,075	6,843	9,668	
+Argentina	4,552	14,465	0	5,500	
+Australia	0	0	0	0	
+Austria	0	7,002	0	41,962	
+Bahrain	1,641	0	0	0	
+Bangladesh	0	0	0	0	
+Belarus	0	0	0	0	
+Belgium	112,067	40,071	58,783	24,774	
+Benin	0	0	0	0	
+Bolivia	0	0	0	0	
+Bosnia and Herzegovina	0	0	0	0	
+Brazil	1,047,572	1,351,185	912,378	197,145	
+Bulgaria	0	0	6,792	9,098	
+Burkina Faso	0	0	0	0	
+Cameroon	0	0	0	0	
+Canada	142,842	391,534	576,865	227,107	
+Chad	0	0	0	0	
+Chile	0	0	0	0	
+China	1,138,355	1,901,631	3,049,161	3,407,183	
+Colombia	7,247	0	0	0	
+Costa Rica	0	0	0	0	
+Côte d'Ivoire	0	0	0	0	
+Croatia	1,320	21,292	149,978	107,281	
+Cuba	0	0	0	0	
+Cyprus	18,561	33,557	0	17,268	
+Czech Republic	0	0	0	0	
+Denmark	0	0	0	52,207	
+Djibouti	0	0	7,310	0	
+Ecuador	0	0	0	0	
+Egypt	142,373	203,352	201,745	304,715	
+El Salvador	0	0	0	0	
+Equatorial Guinea	0	0	0	0	
+Ethiopia	2,558	13,357	0	0	
+Europe Othr. Nes	0	0	0	0	
+Finland	0	0	3,275	0	
+France	2,075,447	4,417,765	3,272,646	5,662,646	
+Gabon	0	0	0	0	
+Gambia	0	0	0	0	
+Georgia	0	0	0	17,144	
+Germany	3,696,128	3,677,845	1,886,590	932,719	
+Ghana	0	0	0	0	
+Greece	1,487,431	559,404	972,992	1,624,755	
+Guatemala	0	0	0	0	
+Guinea	0	0	26	0	
+Honduras	0	0	0	0	
+Hong Kong, China	0	8	0	0	
+Hungary	0	0	0	0	
+Iceland	13,820	0	0	0	
+India	555,589	446,292	467,747	503,896	
+Indonesia	840,716	309,125	96,080	154,078	
+Iran (Islamic Republic of)	15,147	0	0	0	
+Ireland	825	160,469	257,682	327,892	
+Italy	13,332,005	19,949,114	9,336,255	15,403,950	
+Japan	109	23	5	3	
+Jordan	2,333	5,843	68	45	
+Kazakhstan	0	0	0	0	
+Kenya	0	0	0	0	
+Korea, Republic of	2,978	0	31,704	51,511	
+Kuwait	0	0	0	0	
+Latvia	0	0	0	0	
+Lebanon	25,700	47,358	40,801	28,534	
+Liberia	0	0	0	30	
+Lithuania	0	0	0	0	
+Luxembourg	0	0	0	0	
+Malawi	0	0	0	0	
+Malaysia	0	6,624	0	116,314	
+Maldives	0	0	0	0	
+Mali	0	0	2	0	
+Malta	43,324	95,247	27,184	35,403	
+Mauritania	0	0	0	24	
+Mexico	0	8,361	3,017	4,737	
+Morocco	69,647	60,041	24,601	35,859	
+Netherlands	826,754	1,205,453	597,834	1,229,424	
+New Zealand	0	0	0	0	
+Niger	0	2,152	0	0	
+Nigeria	18,437	5,984	0	0	
+Norway	0	0	0	0	
+Oman	1,795	0	0	5,598	
+Pakistan	3	0	0	0	
+Panama	0	0	0	0	
+Peru	0	0	0	0	
+Philippines	0	0	0	0	
+Poland	4,360	1,017	0	0	
+Portugal	856,698	1,314,784	434,884	590,667	
+Qatar	0	0	0	0	
+Romania	59,895	86,502	51,555	40,736	
+Russian Federation	0	0	0	0	
+Saudi Arabia	0	45	1,850	1,965	
+Senegal	0	4,605	0	0	
+Serbia	0	0	0	0	
+Seychelles	0	0	0	0	
+Sierra Leone	0	0	0	0	
+Singapore	0	0	65,362	81,007	
+Slovakia	0	28,293	0	0	
+Slovenia	37,417	54,506	85,658	20,872	
+Somalia	0	0	0	0	
+South Africa	0	0	0	0	
+Spain	1,887,474	2,484,587	2,110,099	3,364,062	
+Sri Lanka	0	0	0	0	
+Sudan (North + South)	12,766	40,784	0	0	
+Sweden	1,133	125,485	2,442	21,295	
+Switzerland	37,042	293,845	0	0	
+Syrian Arab Republic	60,318	73,916	31,042	6,597	
+Taipei, Chinese	0	0	3,001	0	
+Tanzania, United Republic of	0	0	0	0	
+Thailand	1,942	5,102	5,113	15,733	
+Togo	0	0	0	0	
+Tunisia	648,626	922,674	569,679	129,473	
+Turkey	60,162	269,672	324,449	192,931	
+Ukraine	0	0	0	0	
+United Arab Emirates	976	31,304	65,652	130,352	
+United Kingdom	917,472	1,392,767	1,037,650	390,252	
+United States of America	2,272,754	2,611,327	478,702	916,001	
+Uruguay	0	0	0	0	
+Venezuela	0	5,490	0	0	
+Viet Nam	0	0	13	1	
+Yemen	61	0	0	0	
+Zambia	0	0	0	0	

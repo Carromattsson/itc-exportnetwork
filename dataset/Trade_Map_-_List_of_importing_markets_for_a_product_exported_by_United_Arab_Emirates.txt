@@ -1,0 +1,194 @@
+List of importing markets for a product exported by United Arab Emirates Product: TOTAL All products
+"Importers"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	
+World	115,452,993		156,634,000	210,000,000	
+Afghanistan	469,254		355,730	712,980	
+Africa not elsewhere specified	757,828		837,111	1,558,236	
+Albania	335		1,983	2,741	
+Algeria	355,101		432,273	344,649	
+America not elsewhere specified	97		204,635	165,608	
+Andorra	1,360		926	1,726	
+Angola	93,509		202,795	303,951	
+Anguilla	6		120	68	
+Antigua and Barbuda	8		38	499	
+Area Nes	44,352,329		53,807,187	70,007,720	
+Argentina	2,432		3,460	6,088	
+Armenia	82,520		146,924	80,294	
+Aruba	57		165	230	
+Australia	92,004		126,124	147,522	
+Austria	21,269		25,134	33,600	
+Azerbaijan	207,977		280,035	242,071	
+Bahamas	843		207	19	
+Bahrain	1,557,246		770,548	1,723,604	
+Bangladesh	71,825		88,514	101,998	
+Barbados	27		20	140	
+Belarus	282		956	1,913	
+Belgium	565,488		848,325	1,294,851	
+Belize	12		0	84	
+Benin	38,060		60,352	77,995	
+Bermuda	37		0	42	
+Bhutan	0		8	0	
+Bolivia	174		206	340	
+Bosnia and Herzegovina	2,523		1,122	2,095	
+Botswana	2,695		4,572	3,678	
+Brazil	5,637		38,991	28,667	
+Brunei Darussalam	2,390		3,354	5,491	
+Bulgaria	20,460		10,459	13,669	
+Burkina Faso	1,709		2,115	5,490	
+Burundi	6,820		5,764	5,005	
+Cambodia	1,047		1,972	3,879	
+Cameroon	38,892		70,358	103,186	
+Canada	29,478		46,792	289,622	
+Central African Republic	284		1,199	1,805	
+Chad	9,013		22,927	23,722	
+Chile	1,147		2,700	7,194	
+China	304,184		436,088	1,142,448	
+Colombia	1,520		2,750	5,747	
+Comoros	17,829		34,854	30,849	
+Congo	59,799		106,642	114,511	
+Cook Islands	9		51	27	
+Costa Rica	20		257	244	
+Côte d'Ivoire	20,436		29,162	34,381	
+Croatia	1,417		4,159	5,218	
+Cuba	2,481		835	4,501	
+Cyprus	34,271		55,749	61,759	
+Czech Republic	4,525		29,248	37,897	
+Democratic Republic of the Congo	132		0	0	
+Denmark	139,596		23,345	22,342	
+Djibouti	178,476		285,962	273,052	
+Dominica	437		797	310	
+Ecuador	1,862		3,055	5,545	
+Egypt	383,912		433,548	909,832	
+El Salvador	212		127	70	
+Equatorial Guinea	5,564		10,439	15,071	
+Eritrea	44,404		42,356	34,844	
+Estonia	6,069		1,672	1,821	
+Ethiopia	109,930		160,138	55,190	
+Europe Othr. Nes	11,090		0	13,790	
+Fiji	523		498	484	
+Finland	74,245		84,500	114,039	
+France	133,447		596,002	555,026	
+Gabon	16,300		24,514	29,306	
+Gambia	16,418		25,310	21,885	
+Georgia	23,970		47,001	71,382	
+Germany	450,170		251,599	509,465	
+Ghana	61,590		93,087	102,249	
+Greece	30,449		37,049	32,479	
+Greenland	54		0	59	
+Guatemala	769		1,244	922	
+Guinea	30,952		39,684	49,141	
+Guyana	521		2,338	36	
+Haiti	68		81	1,059	
+Honduras	559		552	1,589	
+Hong Kong, China	339,553		724,301	1,334,086	
+Hungary	54,065		22,741	60,238	
+Iceland	235		487	651	
+India	5,346,162		9,425,653	15,242,248	
+Indonesia	110,756		68,969	175,319	
+Iran (Islamic Republic of)	3,999,029		6,630,697	6,615,767	
+Iraq	2,160,691		2,995,208	3,003,369	
+Ireland	15,587		15,212	50,881	
+Italy	127,772		213,018	703,555	
+Jamaica	688		1,434	727	
+Japan	27,996,957		39,815,061	34,486,284	
+Jordan	252,902		169,629	201,725	
+Kazakhstan	288,553		659,821	288,924	
+Kenya	314,123		459,840	305,386	
+Kiribati	0		0	2	
+Korea, Democratic People's Republic of	0		0	0	
+Korea, Republic of	64,635		85,031	239,325	
+Kuwait	906,596		1,258,209	1,065,627	
+Kyrgyzstan	21,655		30,795	19,248	
+Lao People's Democratic Republic	107		687	1,016	
+Latvia	6,952		7,779	8,311	
+Lebanon	119,042		213,504	469,862	
+Lesotho	0		314	4	
+Liberia	15,107		16,567	17,378	
+Libya	470,127		513,217	629,800	
+Lithuania	10,866		24,635	62,421	
+Luxembourg	42,067		13,656	15,740	
+Macedonia, The Former Yugoslav Republic of	3,707		3,885	4,860	
+Madagascar	15,226		21,577	65,275	
+Malawi	7,375		10,742	12,057	
+Malaysia	69,453		84,425	210,308	
+Maldives	31,232		42,623	43,982	
+Mali	7,678		12,622	29,268	
+Malta	8,535		12,382	11,677	
+Mauritania	28,393		45,542	71,522	
+Mauritius	21,847		44,044	24,310	
+Mexico	2,787		3,440	6,793	
+Mongolia	534		2,582	8,341	
+Morocco	88,612		159,589	175,610	
+Mozambique	39,496		54,756	64,067	
+Myanmar	4,043		7,875	16,944	
+Namibia	8,363		44,009	90,783	
+Nepal	6,299		59,861	97,698	
+Netherland Antilles	106		875	668	
+Netherlands	887,000		255,597	310,703	
+New Caledonia	74		965	93	
+New Zealand	29,497		48,899	48,397	
+Nicaragua	235		167	248	
+Niger	1,891		4,359	12,193	
+Nigeria	184,046		245,169	334,362	
+Norfolk Island	62		0	0	
+Norway	5,866		9,893	12,117	
+Oman	515,925		968,510	1,409,964	
+Pakistan	921,880		819,535	815,456	
+Palestine, State of	132		178	478	
+Panama	1,821		2,688	6,382	
+Papua New Guinea	1,215		3,415	5,207	
+Paraguay	515		409	424	
+Peru	629		1,855	2,771	
+Philippines	36,580		46,270	51,274	
+Poland	13,008		26,421	24,412	
+Portugal	5,610		4,505	3,692	
+Qatar	727,764		1,533,092	3,049,780	
+Republic of Moldova	445		3,021	1,182	
+Romania	12,951		18,180	50,673	
+Russian Federation	254,741		417,923	406,608	
+Rwanda	13,095		99,398	134,019	
+Samoa	28		45	0	
+Sao Tome and Principe	912		958	757	
+Saudi Arabia	1,056,136		1,656,013	1,481,884	
+Senegal	56,633		72,270	85,739	
+Serbia	0		4,540	2,685	
+Serbia and Montenegro	635		0	0	
+Seychelles	10,262		29,331	24,154	
+Sierra Leone	12,380		14,797	19,439	
+Singapore	288,890		269,734	380,639	
+Slovakia	913		401	958	
+Slovenia	1,871		2,627	1,946	
+Solomon Islands	545		522	105	
+Somalia	216,933		300,017	193,935	
+South Africa	93,768		168,620	383,479	
+Spain	41,034		70,662	89,596	
+Sri Lanka	107,305		127,788	122,802	
+Sudan (North + South)	344,054		462,817	414,931	
+Suriname	304		175	114	
+Swaziland	2,053		1,827	2,951	
+Sweden	57,673		10,953	20,851	
+Switzerland	996,286		1,814,421	2,729,671	
+Syrian Arab Republic	172,475		264,154	247,679	
+Taipei, Chinese	11,784,462		17,767,703	45,403,186	
+Tajikistan	29,966		39,549	24,792	
+Tanzania, United Republic of	387,779		726,399	325,771	
+Thailand	114,045		235,870	396,680	
+Timor-Leste	0		90	10	
+Togo	16,576		30,885	27,195	
+Tonga	113		275	230	
+Trinidad and Tobago	276		1,449	3,307	
+Tunisia	31,835		49,120	71,669	
+Turkey	123,916		269,551	525,017	
+Turkmenistan	137,707		134,076	116,402	
+Uganda	39,273		47,454	44,569	
+Ukraine	107,144		478,834	352,054	
+United Kingdom	283,374		435,676	502,743	
+United States Minor Outlying Islands	20		34	50	
+United States of America	796,518		699,712	1,230,163	
+Uruguay	1,983		1,799	1,846	
+Uzbekistan	43,432		49,818	33,584	
+Vanuatu	84		807	134	
+Venezuela	595		1,753	1,637	
+Viet Nam	64,342		84,309	102,578	
+Yemen	420,067		520,124	426,813	
+Zambia	13,360		15,780	20,246	
+Zimbabwe	11,760		11,728	11,468	

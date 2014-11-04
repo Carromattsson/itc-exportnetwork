@@ -1,0 +1,100 @@
+List of importing markets for a product exported by Lesotho Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	
+World	279,593	357,956	478,932					244,660	628,128	508,677	
+Africa not elsewhere specified	0	0	0					0	89	0	
+America not elsewhere specified	0	0	0					0	403	0	
+Area Nes	19	55	44					0	0	1	
+Argentina	0	0	0					0	0	0	
+Australia	0	0	0					14	478	672	
+Austria	0	0	0					0	0	0	
+Bangladesh	0	0	0					144	168	1,359	
+Belgium	21,490	2,831	4,868					203	10,232	0	
+Benin	0	0	0					0	0	0	
+Botswana	290	0	62					0	0	0	
+Brazil	0	0	5					0	0	0	
+Cambodia	0	0	0					0	0	0	
+Cameroon	0	0	0					0	0	0	
+Canada	14,408	24,758	7,599					1,101	95,022	7,871	
+Chile	0	0	0					0	79	0	
+China	1	0	47					12	2,180	1,318	
+Côte d'Ivoire	1	0	0					0	0	0	
+Cyprus	0	0	0					0	0	0	
+Democratic Republic of the Congo	0	0	0					0	0	0	
+Denmark	0	0	0					0	0	0	
+Ecuador	0	0	0					0	0	0	
+Egypt	1	0	0					434	1,067	2,288	
+Ethiopia	55	0	0					0	0	0	
+Europe Othr. Nes	0	0	0					0	723	4	
+European Union Nes	0	0	0					0	0	0	
+Finland	0	0	0					0	0	0	
+France	24	2,831	0					0	0	0	
+Gabon	629	0	0					0	0	0	
+Gambia	0	0	0					0	0	0	
+Germany	12	30	81					0	103	135	
+Ghana	0	0	0					0	0	0	
+Greece	8	0	0					0	0	2	
+Guinea	0	0	0					4	0	0	
+Guyana	1	0	0					0	0	0	
+Hong Kong, China	1	0	243					55	218	293	
+Hungary	0	0	0					0	0	0	
+Iceland	30	0	0					0	0	0	
+India	0	0	0					0	0	0	
+Indonesia	0	0	0					0	0	0	
+Iran (Islamic Republic of)	0	0	0					1	0	0	
+Ireland	0	124	0					47	177	0	
+Israel	0	0	0					0	0	0	
+Italy	14	2,831	0					0	0	0	
+Japan	54	12	105					38	1,291	595	
+Jordan	0	0	0					169	230	0	
+Kenya	9	0	0					1,488	1,063	362	
+Korea, Democratic People's Republic of	0	0	0					0	0	3	
+Korea, Republic of	0	0	0					0	0	12	
+Kuwait	0	0	0					0	0	0	
+Lao People's Democratic Republic	0	0	0					0	0	0	
+Lebanon	0	0	0					0	0	0	
+Madagascar	0	0	0					1,831	3,607	123	
+Malawi	7	0	0					0	0	0	
+Malaysia	0	0	1					0	0	2	
+Maldives	0	0	0					0	0	0	
+Malta	0	0	0					0	0	62	
+Mauritius	0	0	0					149	172	872	
+Mexico	162	0	0					3	89	9	
+Morocco	0	0	0					0	0	0	
+Mozambique	0	0	0					0	345	0	
+Namibia	0	0	0					0	0	0	
+Netherlands	151	0	467					182	922	205	
+New Zealand	2	0	0					0	0	0	
+Nicaragua	0	0	0					0	0	0	
+Niger	0	0	91					0	0	0	
+Nigeria	0	0	673					0	0	0	
+Norway	0	0	0					0	0	0	
+Oman	0	0	0					0	0	0	
+Pakistan	0	0	0					0	0	174	
+Philippines	2	0	0					0	0	0	
+Romania	0	0	0					0	0	0	
+Russian Federation	0	0	0					0	36	0	
+Saudi Arabia	0	0	0					0	0	0	
+Senegal	0	0	0					0	0	0	
+Serbia and Montenegro	0	0	0					0	0	0	
+Seychelles	0	0	4					0	0	0	
+Singapore	157	1	5					0	1	0	
+South Africa	148,282	151,580	92,880					202,421	307,437	383,079	
+Spain	0	0	0					0	0	6	
+Sri Lanka	0	0	0					154	0	0	
+Sudan (North + South)	0	0	0					0	0	0	
+Swaziland	198	0	0					140	649	1,105	
+Sweden	13	0	0					0	0	0	
+Switzerland	9	0	0					0	8	0	
+Taipei, Chinese	23	13,715	230					0	310	187	
+Tanzania, United Republic of	12	0	0					0	0	51	
+Thailand	0	0	0					0	0	0	
+Togo	4	0	0					0	0	0	
+Tunisia	0	0	0					0	0	0	
+Turkey	0	0	0					1	0	4	
+Uganda	5	0	0					0	0	0	
+United Arab Emirates	0	0	0					9	0	5	
+United Kingdom	244	0	92					214	707	474	
+United States of America	93,270	159,152	371,434					35,841	199,978	106,975	
+Viet Nam	0	0	0					0	0	0	
+Zambia	6	36	0					0	0	0	
+Zimbabwe	0	0	0					5	346	428	

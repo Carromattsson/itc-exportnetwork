@@ -1,0 +1,38 @@
+List of importing markets for a product exported by America not elsewhere specified (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	8,172	4,756	15,347	32,260	11,888	69,307	76,815	101,800	62,774	52,271	4,471	2,153	3,357	
+Argentina	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Bangladesh	1,255	642	0	0	0	0	0							
+Botswana	0	2,808	0	0	0	0	0	0	0	0	0	0	0	
+Brunei Darussalam	0	0	0	0		0				0	0	0	0	
+Burkina Faso	0	0	850	426	0		0	0	0	0	0	0		
+Cambodia	0	0	0	0	0	0	0	0	0	0	0	0		
+Cameroon	0	177	175	0	963	0	0	0	0	0	0	0		
+Central African Republic	0	0	0			23	0	0	0	0	0	0	0	
+China	84	19	0	27	0	19,132	0	87	0	0	17	279	785	
+Costa Rica	31	0	0	0	0	0	0	0	0	0	0	0	0	
+Côte d'Ivoire	509	0	0	560	84	35	4	235	0	0	0	0		
+Egypt	0	0	1,492	2,289	3,613	8	0	0	0	488	0	0	0	
+Fiji		0	0	0	0	0	0	0	0	0	0	0		
+Hong Kong, China	0	0	0	0	0	0	0	0	13	1	4	143		
+Indonesia	0	13	0	0	0	6	0	0	0	0	0	0	0	
+Israel	5,990	254	52	19	0	0	0	0	0	0	0	0	0	
+Jamaica	0	0	0	191	0	0	0	0	0	0	0	0		
+Japan	0	0	0	0	383	446	443	839	359	655	1,164	326	340	
+Kuwait	0	0	0	0		4	0	0						
+Lesotho	0	0	0					69	2	92				
+Mali	150	342	1,886	570	70	129	0	0		0	0	0		
+Mauritania	0	17	43	0	0		297	0	0	0	0	0		
+Netherlands	13	8	9	0	0	18	0	7	0	0	0	0	0	
+Nicaragua	18	2	0	0	0	0	0	0	0	0	0	0	0	
+Niger	102	474	101	152	1,496	235	0	0	0	0	0	0	0	
+Pakistan			8	0	170	2	0	0	0	0	0	0	0	
+Panama	0	0	0		0	0	0	0	0	0	0			
+Poland	0	0	0	3	7	0	0	0	0	0	0	0	0	
+Qatar	0	0	0	25,015	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	0	0	0	2	0	0	0	0	0	0		
+Senegal	14	0	28	0	87	33	339	0	0	0	0	0	0	
+Singapore	0	0	10,703	3,008	5,015	49,234	75,729	100,563	62,400	51,035	3,286	1,405	2,232	
+Sri Lanka	6	0	0	0	0	0	3	0	0	0	0	0		
+United Arab Emirates					0		0	0						
+Venezuela	0	0	0	0	0	0		0	0	0	0	0	0	

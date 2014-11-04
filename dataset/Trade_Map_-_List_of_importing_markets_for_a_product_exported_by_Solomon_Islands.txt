@@ -1,0 +1,112 @@
+List of importing markets for a product exported by Solomon Islands Product: TOTAL All products
+"Importers"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	
+World	214,237	127,108	218,349	417,425	
+Albania	0	0	0	0	
+Andorra	0	0	0	0	
+Argentina	0	66	0	0	
+Australia	8,254	5,290	8,604	67,757	
+Austria	0	0	0	0	
+Bahamas	0	0	0	0	
+Bangladesh	0	0	0	0	
+Belgium	0	1	0	0	
+Belize	0	0	0	0	
+Brazil	0	0	0	0	
+Brunei Darussalam	0	0	0	0	
+Cabo Verde	0	0	0	0	
+Cambodia	43	0	0	0	
+Canada	3	6	0	6	
+Chile	0	0	0	0	
+China	87,515	42,139	105,677	193,136	
+Colombia	0	0	0	0	
+Congo	0	0	0	0	
+Croatia	0	0	0	0	
+Cuba	0	0	0	12	
+Czech Republic	1	0	0	0	
+Denmark	0	0	0	0	
+Dominica	0	0	0	0	
+Dominican Republic	0	0	0	0	
+Ecuador	0	0	0	0	
+Egypt	0	1	0	0	
+Estonia	0	0	0	0	
+Faroe Islands	0	0	0	0	
+Fiji	1,812	1,643	1,105	1,047	
+Finland	0	0	0	0	
+France	103	145	300	351	
+Gambia	0	0	0	0	
+Georgia	0	0	0	0	
+Germany	1	456	488	354	
+Ghana	0	0	0	0	
+Greece	0	0	0	0	
+Guinea	0	0	0	0	
+Guyana	0	0	0	0	
+Haiti	0	0	0	0	
+Hong Kong, China	1,062	1,328	1,595	1,042	
+Hungary	0	0	0	1	
+India	3	170	50	5,283	
+Indonesia	694	2,903	7,036	7,872	
+Iran (Islamic Republic of)	0	0	0	0	
+Ireland	0	0	0	0	
+Israel	0	0	0	0	
+Italy	10,956	9,120	7,465	19,226	
+Japan	4,012	1,497	1,364	1,030	
+Kiribati	106	99	535	680	
+Korea, Democratic People's Republic of	0	0	0	0	
+Korea, Republic of	8,489	2,724	5,428	4,783	
+Kyrgyzstan	2	0	0	0	
+Lao People's Democratic Republic	0	0	0	0	
+Lebanon	0	0	0	0	
+Liberia	0	0	0	0	
+Luxembourg	0	0	0	0	
+Malaysia	344	3,065	1,902	8,017	
+Mali	0	25	0	0	
+Marshall Islands	0	1	0	114	
+Mexico	0	0	0	0	
+Montserrat	0	0	0	0	
+Morocco	0	0	0	0	
+Mozambique	0	0	0	0	
+Myanmar	0	0	0	0	
+Namibia	0	0	0	0	
+Nauru	127	58	206	168	
+Nepal	0	0	0	0	
+Netherland Antilles	0	0	0	0	
+Netherlands	0	0	0	21,321	
+New Caledonia	302	189	244	271	
+New Zealand	1,535	1,253	1,361	2,172	
+Niger	0	0	0	0	
+Nigeria	0	0	0	0	
+Norway	0	0	0	0	
+Pakistan	0	0	337	73	
+Papua New Guinea	372	521	5,244	296	
+Philippines	25,700	10,274	17,587	26,075	
+Poland	0	0	0	0	
+Russian Federation	0	8	25	0	
+Saint Helena	0	0	0	0	
+Samoa	0	0	6	0	
+Saudi Arabia	0	0	0	0	
+Senegal	0	5	0	0	
+Seychelles	0	0	0	0	
+Sierra Leone	0	0	0	0	
+Singapore	11,049	11,630	5,355	3,512	
+Slovakia	0	0	0	0	
+Slovenia	0	0	0	0	
+Solomon Islands	0	0	0	0	
+South Africa	0	0	0	23	
+Spain	16,489	15,256	14,779	10,425	
+Sri Lanka	0	0	0	0	
+Swaziland	0	0	0	0	
+Sweden	0	0	0	0	
+Switzerland	0	4,477	0	46	
+Taipei, Chinese	191	53	59	1,586	
+Thailand	27,590	8,171	14,193	23,217	
+Timor-Leste	0	0	0	0	
+Tokelau	0	0	0	0	
+Turkey	0	0	0	0	
+Tuvalu	0	0	57	34	
+Ukraine	0	0	0	0	
+United Arab Emirates	0	0	0	0	
+United Kingdom	17	3,720	15,957	14,465	
+United States Minor Outlying Islands	146	0	0	0	
+United States of America	259	156	784	464	
+Vanuatu	2,979	331	182	984	
+Venezuela	0	0	0	0	
+Viet Nam	4,079	326	424	1,583	

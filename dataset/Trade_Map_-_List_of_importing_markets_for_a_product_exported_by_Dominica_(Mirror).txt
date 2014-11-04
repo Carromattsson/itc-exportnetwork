@@ -1,0 +1,168 @@
+List of importing markets for a product exported by Dominica (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	83,131	63,291	69,761	72,134	88,098	80,247	90,317	97,898	122,327	60,219	77,885	77,991	48,315	
+Albania	0	0	125	0	18	21	16	0	13	6	0	0	0	
+Algeria	0	1	0	0	4	9	8	5	5	30	10	2,967	76	
+Andorra	3	16	13	0										
+Anguilla	52	46	97											
+Antigua and Barbuda					2,970		5,069		5,355	2,380	1,558	2,608	2,661	
+Argentina	78	0	0	30	4	29	9	6	44	2	5	14	7	
+Armenia	144	46	62	2,230	2,691	76	52	74	9	0	0	0	0	
+Aruba					41				0	0	0	0		
+Australia	140	108	31	10	32	342	328	3,252	267	312	473	620	264	
+Austria	280	157	287	350	354	301	8,520	966	0	1	0	5	0	
+Azerbaijan	0	0	0	0	0	0	0	54	21	0	20	6		
+Bahamas	1,790	0	0	0	0	0	0	0	0	0	0	0		
+Bahrain	0	0	0	0	0	0	2	7	0	20	26			
+Bangladesh	0	0	17	140	141	4	375							
+Barbados	2,000	1,645	2,319	1,943	2,273	2,601	2,380	1,741	2,534	1,437	1,626	1,681	1,212	
+Belarus	0	0	0	7	0	4	1,391	83	50	0	70	24	417	
+Belgium	0	102	0	27	69	55	192	36	2,997	628	738	200	7	
+Belize	281	682	588	651	445	327	271	86	109	113	82	0	814	
+Benin	0	0	0	0	0	0	0	0	0	8	0	0	0	
+Bermuda												4	0	
+Bolivia	0	15	0	52	5	2	5	0	5	7	23	65		
+Bosnia and Herzegovina			0	0	0	0	3	0	3	0	1	1	3	
+Botswana	0	0	0	0	0	0	0	0	0	1	1	0	0	
+Brazil	12	1	6	504	320	223	12	12	17	39	12	36	15	
+Bulgaria	0	1	0	1	2	9	34	22	0	0	277	0	0	
+Burkina Faso	0	0	0	0	0		0	0	8	0	0	490		
+Burundi	34	17	82	12	65	6	20	52	0	45	0	23	36	
+Cabo Verde	0	0	0	0	0	12	77		62	16	0	0	0	
+Cambodia	0	0	0	0	0	0	0	4	0	0	0	0		
+Cameroon	0	0	0	0	0	158	0	0	0	0	0	0		
+Canada	492	602	256	241	639	223	372	317	343	141	292	222	1,120	
+Chile	3	61	39	2	1	12	148	3	0	0	1	2	43	
+China	901	742	758	1,753	946	8,184	4,109	2,165	1,160	2,529	396	1,146	109	
+Colombia	45	0	6	2	115	20	312	947	1,064	52	507	269	3	
+Congo							1	0	1	1	0	0	0	
+Costa Rica	1	2	0	16	32	40	13	16	64	21	12	70	47	
+Côte d'Ivoire	12	0	0	0	2	0	0	0	17	5	0	0		
+Croatia	33	15	24	14	7	424	840	632	495	898	1,861	1,506	0	
+Cuba	5	220	52	47	112	74								
+Cyprus	2	0	2	8	3	2	75	8	20	45	2	1	0	
+Czech Republic	50	0	11	156	189	100	377	308	43	18	13	85	597	
+Denmark	2	72	2	0	4	1	11	96	1	7	46	6	13	
+Dominican Republic	35	22	20	3	106	2,387	20	15	4	17	764	507	159	
+Ecuador	0	0	0	2	0	0	0	0	0	23	225	0	17	
+Egypt	107	6	0	16	0	0	0	172	19,588	3,249	2,306	5,010	3,162	
+El Salvador	0	10	0	0	23	159	77	110	9	254	0	0	0	
+Estonia	11	3	15	255	1	180	6	0	0	455	0	0	0	
+Ethiopia	0	0	0	0	0	0	0	1	0	2	2	6		
+Faroe Islands	1	0	1	0	0	0	0	1	5					
+Fiji		1	0	0	17	0	2	19	18	0	0	0		
+Finland	14	19	1	0	58	2	5	1	0	0	0	0	0	
+France	7,266	2,298	2,554	5,608	2,872	3,661	5,273	6,056	4,380	4,424	4,741	4,598	3,873	
+French Polynesia	0	0	0	0	15	2	0	0	0	1	0	0	0	
+Gabon	0	0	0	0	0	0	0	0	0					
+Gambia	28	0	0	0	0	0	0	0	0	0	0			
+Georgia	0	87	81	351	561	6	0	0	0	7	40	68	0	
+Germany	471	350	247	183	489	84	272	69	452	50	30	85	132	
+Ghana	1		0		22	0	0	12	0	0	41	0		
+Greece	12	9	0	3	20	9	19	38	0	29	1	0	9	
+Grenada	257	151	164	230	571	366	522	697						
+Guatemala	0	36	14	0	22	0	0	3	122	12	44	0	5,698	
+Guyana	3,623	2,699	3,402	4,359	4,769	2,966	5,758	2,692	1,625	2,895	3,659	2,750	5,474	
+Honduras	0	117	253	453	364	52	161	11	14	37	14	11	2	
+Hungary	120	50	24	5	1	6	46	9	0	5	81	6	2	
+Iceland	0	0	0	0	0	0	0	0	0	0	0	30	0	
+India	49	33	76	275	254	334	665	617	832	157	423	450	1,196	
+Indonesia	660	59	112	159	352	1,080	210	42	77	220	611	595	117	
+Iran (Islamic Republic of)	0	2	0	0	0	0				70	0			
+Ireland	3,350	1,073	297	781	1,202	340	438	766	104	102	15	26	27	
+Israel	102	60	380	149	45	116	91	148	54	108	794	461	5,644	
+Italy	785	200	301	348	113	73	83	302	225	120	17	0	9	
+Jamaica	13,428	10,490	9,232	8,228	9,405	12,716	12,952	10,113	11,147	8,932	6,438	20,774		
+Japan	2,809	1,254	4,483	4,448	2,481	1,194	1,940	3,177	1,257	1,386	3,308	1,121	959	
+Kazakhstan	0	3	0	0	2	0	0	153	7	1,113	0	10	4	
+Kenya	0	0	1,595	114	107	397	54	0	0	210	51			
+Korea, Republic of	1,000	131	162	266	8,357	190	452	932	899	513	678	4,583	2,702	
+Kuwait	0	189	34	46		191	130	89						
+Kyrgyzstan	0	0	0	0	0	0	1	4	15	14	15	12		
+Latvia	0	0	0	4	5	0	0	0	0	0	7	0	27	
+Lebanon	308	297	46	22	94	160	187	24	150	55	366	80	65	
+Lithuania	0	0	14	0	0	0	0	1	0	0	0	0	0	
+Luxembourg	0	0	0	0	0	1	0	45	0	0	1	4	1	
+Macao, China	21	37	375	106	97	33	49	46	41	42		20		
+Macedonia, The Former Yugoslav Republic of	0	1	0	0	2	68	1		0	0	0	0	10	
+Madagascar	0	0	0	10	24	4	0	0	0	0	22	5	3	
+Malawi	914	0	3	14	17	0	21	0	0	0	0	0	0	
+Malaysia	266	10	84	21	83	183	787	138	37	0	1	2	0	
+Mali	0	6	3	0	0	0	0	0		0	0	0		
+Malta	75	0	0	0	0	0	0	0	0	0	0	0	0	
+Mauritania	0	0	0	0	0		0	0	0	50	0	0		
+Mauritius	0	62	105	0	1	0	0	5	0	1	0	0	0	
+Mayotte	0	1	1	0	5	7	0	4	4					
+Mexico	223	100	47	136	247	2,213	530	290	185	219	163	276	958	
+Mongolia	0		1	13	2	0	19						0	
+Montenegro						70	61	80	64	46	4	78	83	
+Montserrat	361	251	311	613	284	119	120	132	151			176	243	
+Morocco	0	0	0	0	0	0	0	0	0	8	5	11	47	
+Mozambique	24	0	40	47	47	141	156	1	25	10	125	5	0	
+Myanmar										177				
+Namibia	0	0	0	0	3	0	0	0	36	0	0	0	0	
+Nepal			0						28	0	0			
+Netherland Antilles					0	6	91	41						
+Netherlands	241	364	64	5	34	101	12	174	71	493	676	1,434	111	
+New Caledonia	0	0	1	3	0	1	0	0	0	1	0	2	2	
+New Zealand	0	0	2	0	0	26	72	14	12	2	77	30	40	
+Nicaragua	35	50	11	17	28	17	57	41	120	3	11	1	0	
+Nigeria	526	678	766			432	42	104	2	162	0	0		
+Norway	6	3	0	0	26	0	0	0	0	0	0	92	14	
+Oman	2	13	0	0	0	0	0	0	0	0	0	0	0	
+Pakistan			0	0	0	0	0	1	41	40	9	20	46	
+Palestine, State of							0	0	0	25	0	0		
+Panama	0	0	0		47	606	522	60	38	11	38			
+Papua New Guinea	1,722	270	133	1,351							20	2		
+Paraguay	0	0	11	0	7	0	14	34	41	14	12,807	0	133	
+Peru	140	16	33	22	49	14	57	3	29	2	10	13		
+Philippines	6	15	94	12	0	0	0	0	0	0	0	0	0	
+Poland	0	0	2,600	148	193	97	484	752	574	457	372	64	20	
+Portugal	2	24	44	4	3	0	0	0	1	1	0	118	0	
+Republic of Moldova	3	0	0	25	2	67	39	104	20	1	1	3	2	
+Romania	0	2	1	34	46	26	4	0	0	0	0	2	0	
+Russian Federation	2	1	3	3	2	0	1	3	7	3	113	2	2	
+Rwanda	8	35	0	59	2	51	0	0	1	25	0	0	5	
+Saint Kitts and Nevis	677	1,109	884	619	700	921	1,312	1,237	909	924	806			
+Saint Lucia	1,336	1,157	1,426	3,634	3,197	2,830	1,675	1,543						
+Saint Vincent and the Grenadines	579	643	486	567	583	1,307	591	515	748	977	306	713		
+Samoa	2	0	0	0	0	0	0	0	0	0	0	16	0	
+Sao Tome and Principe	0	0	3	0	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	219	203	1,135	493	1,249	987	2,152	12,184	3,007	3,386	6,471	6,267		
+Serbia					2	1	40	11	68	10	33	1	1	
+Serbia and Montenegro	9	4		11										
+Sierra Leone		13												
+Singapore	192	5	0	0	0	0	0	0	0	0	294	101	150	
+Slovakia	9	0	0	16	10	89	129	1,041	223	241	122	474	633	
+Slovenia	4	4	2	10	2	1	1	0	1	0	1	4	13	
+Solomon Islands								0	13	63	0			
+South Africa	274	412	370	272	516	117	214	66	41	31	39	154	57	
+Spain	3,916	606	2,447	133	246	104	67	444	357	293	212	499	538	
+Sri Lanka	64	57	1	32	499	32	375	277	1,218	0	120	5		
+Sudan (North + South)	0	86	0	0	0	24		94	601	137	3			
+Suriname	467			776	851	896	1,148		632	749	1,333			
+Sweden	0	0	186	127	0	428	192	710	7	35	72	4,963	1	
+Switzerland	96	42	44	1,328	108	40	16	1,500	142	19	21	74	0	
+Syrian Arab Republic	0	0	0	0	0	0	0	0	28	34				
+Taipei, Chinese	78	104	30	32	45	89	229	300	277	199	281	1,040	804	
+Tanzania, United Republic of	59	30	35	52	59	9	0	0	0	1	173	274	187	
+Thailand	314	200	210	426	1,103	822	701	811	177	75	80	346	337	
+Timor-Leste				1	0									
+Togo	1	6	0	19	0		0	10	0	0	0	0	0	
+Tonga	0	0	0					0	0	1	0	0		
+Trinidad and Tobago	2,201	2,361	2,947	2,737	3,067	3,131	5,228	7,737	4,574	4,650				
+Tunisia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Turkey	5	13	4	88	99	3	2	80	495	12	1,087	504	1,804	
+Turks and Caicos Islands	11	0	4	0							1	0		
+Uganda	304	88	100	70	0	0	0	0	49	0	0	4	0	
+Ukraine	0	0	13	0	0	7	0	0	0	15	29	17	17	
+United Arab Emirates					837		2,145	3,945						
+United Kingdom	20,392	24,746	18,587	19,349	23,951	19,219	10,381	10,213	32,174	6,174	7,087	3,186	2,441	
+United States of America	5,618	5,097	5,770	3,361	3,632	3,312	1,858	2,455	2,853	1,706	1,991	1,851	2,757	
+Uruguay	0	2	1	4	3	1	6	1	7	4	2,819	0	3	
+Vanuatu						0	0		0	0	0			
+Venezuela	143	65	58	700	52	87		158	575	329	49	291	130	
+Viet Nam	529	93	2,000	101	2,188	1,577	4,326	13,323	15,932	5,138	7,275	1,613		
+Yemen				0	12	0	0	0	0	0	0	0		
+Zambia	20	0	0	29	0	0	0	4	0	0	0	0	0	
+Zimbabwe	238	6		0	24	0	4	1	0	1	2	0	0	

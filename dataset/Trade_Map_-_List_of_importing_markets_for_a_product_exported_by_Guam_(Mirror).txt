@@ -1,0 +1,8 @@
+List of importing markets for a product exported by Guam (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	0	0	0	0	0	0	0	0	0	0	0	0	19	
+Antigua and Barbuda					0		0		0	0	0	0	4	
+Benin	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Costa Rica	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Israel	0	0	0	0	0	0	0	0	0	0	0	0	15	
+Russian Federation	0	0	0	0	0	0	0	0	0	0	0	0	0	

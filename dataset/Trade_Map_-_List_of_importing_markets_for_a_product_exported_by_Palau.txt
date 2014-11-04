@@ -1,0 +1,52 @@
+List of importing markets for a product exported by Palau Product: TOTAL All products
+"Importers"	"Exported value in 2012"	
+World	8,999	
+Australia	0	
+Bangladesh	0	
+Belgium	0	
+Brazil	0	
+Canada	3	
+China	7	
+Colombia	0	
+Denmark	0	
+Falkland Islands (Malvinas)	0	
+Fiji	0	
+France	0	
+Georgia	0	
+Germany	12	
+Gibraltar	0	
+Greece	0	
+Hong Kong, China	278	
+India	0	
+Indonesia	0	
+Italy	0	
+Japan	7,420	
+Korea, Democratic People's Republic of	1	
+Korea, Republic of	36	
+Malaysia	0	
+Mali	0	
+Marshall Islands	17	
+Mexico	0	
+Micronesia (Federated States of)	92	
+Netherlands	0	
+New Caledonia	0	
+New Zealand	0	
+Nicaragua	0	
+Northern Mariana Islands	55	
+Palau	0	
+Panama	0	
+Philippines	171	
+Senegal	0	
+Singapore	16	
+Slovakia	0	
+Spain	0	
+Switzerland	2	
+Taipei, Chinese	249	
+Thailand	0	
+Timor-Leste	0	
+Tonga	0	
+Ukraine	3	
+United Kingdom	22	
+United States Minor Outlying Islands	279	
+United States of America	309	
+Viet Nam	26	

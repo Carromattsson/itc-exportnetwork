@@ -1,0 +1,81 @@
+List of importing markets for a product exported by Anguilla Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	
+World	3,201	4,344	4,239	
+Afghanistan	0	0	0	
+Antigua and Barbuda	18	40	80	
+Argentina	0	0	0	
+Aruba	0	0	1	
+Australia	0	4	0	
+Bahamas	0	1	1	
+Barbados	6	49	1	
+Belgium	0	0	0	
+Belize	20	0	2	
+Bermuda	0	0	0	
+Brazil	0	0	22	
+British Virgin Islands	1	4	1	
+Canada	0	28	4	
+Cayman Islands	0	0	0	
+Chile	0	0	0	
+China	0	0	0	
+Colombia	0	0	0	
+Congo	0	0	0	
+Costa Rica	0	0	0	
+Cuba	0	2	0	
+Czech Republic	0	0	0	
+Denmark	0	0	0	
+Dominica	73	2	0	
+Dominican Republic	0	0	18	
+Finland	3	1	0	
+France	344	297	193	
+Germany	0	0	0	
+Greece	0	0	0	
+Grenada	16	0	0	
+Guatemala	0	0	0	
+Guyana	26	102	965	
+Haiti	0	0	0	
+Honduras	0	0	0	
+Hong Kong, China	0	0	0	
+India	1	0	0	
+Indonesia	0	0	0	
+Ireland	0	0	0	
+Israel	0	0	0	
+Italy	4	84	0	
+Jamaica	0	1	0	
+Japan	123	128	49	
+Korea, Republic of	1	0	10	
+Lebanon	0	0	0	
+Madagascar	0	0	0	
+Mexico	0	0	16	
+Montserrat	15	7	0	
+Namibia	0	0	0	
+Netherland Antilles	1,031	838	556	
+Netherlands	29	0	32	
+Nigeria	0	0	0	
+Norway	0	0	0	
+Pakistan	0	0	0	
+Panama	0	0	16	
+Peru	0	0	0	
+Portugal	0	0	0	
+Romania	0	0	0	
+Russian Federation	0	0	0	
+Saint Kitts and Nevis	48	40	19	
+Saint Lucia	2	0	18	
+Saint Vincent and the Grenadines	1	6	0	
+Saudi Arabia	0	0	0	
+Serbia and Montenegro	0	0	0	
+Singapore	0	0	0	
+South Africa	0	0	0	
+Spain	0	21	0	
+Suriname	0	0	0	
+Sweden	0	0	0	
+Switzerland	0	0	12	
+Taipei, Chinese	0	0	0	
+Thailand	0	0	0	
+Trinidad and Tobago	153	57	22	
+Tunisia	0	0	0	
+Turkey	0	0	0	
+Turks and Caicos Islands	0	0	0	
+Ukraine	0	0	0	
+United Kingdom	66	152	12	
+United States of America	1,219	2,476	2,188	
+Venezuela	0	0	0	

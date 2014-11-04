@@ -1,0 +1,176 @@
+List of importing markets for a product exported by Netherland Antilles Product: TOTAL All products
+"Importers"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	
+World	90,937	129,272	116,110	146,230	
+Albania	3	0	0	0	
+Algeria	0	0	0	0	
+Andorra	12	34	10	144	
+Angola	13	0	0	0	
+Anguilla	0	0	0	0	
+Antigua and Barbuda	402	524	266	2,089	
+Area Nes	7,168	14,264	16,058	18,797	
+Argentina	13	28	44	180	
+Aruba	15,747	13,703	20,315	14,908	
+Australia	71	209	59	53	
+Austria	0	0	22	0	
+Bahamas	97	189	251	337	
+Bahrain	14	0	0	0	
+Bangladesh	37	0	0	0	
+Barbados	690	768	681	570	
+Belarus	0	0	0	0	
+Belgium	3,053	1,808	3,610	1,522	
+Belize	124	105	130	118	
+Bermuda	0	0	0	1	
+Bhutan	0	0	0	0	
+Bolivia	0	0	12	0	
+Botswana	0	0	0	0	
+Brazil	1,117	225	396	13	
+British Virgin Islands	0	6	38	7	
+Brunei Darussalam	0	0	0	0	
+Bulgaria	0	0	0	0	
+Burkina Faso	0	0	0	0	
+Burundi	0	0	0	0	
+Cabo Verde	0	0	0	0	
+Cambodia	0	0	0	0	
+Cameroon	0	0	0	0	
+Canada	262	169	172	1,679	
+Cayman Islands	59	22	1	35	
+Central African Republic	0	0	3	24	
+Chad	0	0	0	0	
+Chile	0	23	0	0	
+China	94	60	123	163	
+Christmas Islands	0	0	0	0	
+Cocos (Keeling) Islands	1	0	0	0	
+Colombia	485	662	1,280	1,009	
+Comoros	119	0	0	0	
+Congo	0	33	66	0	
+Cook Islands	0	0	0	0	
+Costa Rica	535	516	49	222	
+Côte d'Ivoire	0	0	0	0	
+Cuba	68	78	114	110	
+Cyprus	0	3	3	4	
+Democratic Republic of the Congo	0	0	0	0	
+Denmark	96	470	294	9	
+Djibouti	0	0	0	10	
+Dominica	32	30	38	16	
+Dominican Republic	561	926	2,981	1,005	
+Ecuador	26	254	4	6	
+Egypt	0	0	0	1	
+El Salvador	6	24	2	0	
+Falkland Islands (Malvinas)	0	0	0	0	
+Fiji	0	0	0	0	
+Finland	9	851	0	138	
+France	675	760	672	1,670	
+French Polynesia	7	0	0	0	
+Gabon	0	0	1	0	
+Gambia	0	0	0	0	
+Germany	536	328	472	3,953	
+Ghana	0	691	3	0	
+Gibraltar	0	0	0	0	
+Greece	23	70	4	4	
+Greenland	0	18	0	0	
+Grenada	56	72	76	77	
+Guatemala	957	102	186	0	
+Guinea	0	1	0	10	
+Guyana	623	1,202	113	4	
+Haiti	81	82	81	992	
+Honduras	36	29	0	0	
+Hong Kong, China	1	111	138	13	
+Hungary	0	0	0	0	
+Iceland	0	0	0	0	
+India	77	3	14	41	
+Indonesia	64	1	0	0	
+Iran (Islamic Republic of)	0	0	0	0	
+Iraq	0	2	0	0	
+Ireland	1	3	23	119	
+Israel	0	28	31	47	
+Italy	178	146	2,435	306	
+Jamaica	166	98	105	1,377	
+Japan	2	32	32	6	
+Jordan	0	44	0	37	
+Kenya	2	0	0	0	
+Kiribati	0	0	0	0	
+Korea, Republic of	8	0	36	34	
+Kuwait	0	0	0	0	
+Lao People's Democratic Republic	58	0	0	0	
+Lebanon	122	0	66	3	
+Lesotho	5	0	0	0	
+Liberia	0	0	0	0	
+Libya	0	0	0	0	
+Luxembourg	20	3	51	39	
+Macao, China	0	0	0	0	
+Madagascar	0	0	0	0	
+Malawi	0	0	0	0	
+Malaysia	41	37	0	0	
+Maldives	0	0	0	0	
+Mali	275	0	0	8	
+Malta	0	18	92	18	
+Mauritania	33	0	0	0	
+Mexico	1,907	615	80	84	
+Micronesia (Federated States of)	0	0	0	0	
+Mongolia	0	0	0	0	
+Montserrat	0	0	0	0	
+Morocco	0	0	18	42	
+Myanmar	0	0	0	0	
+Namibia	91	21	598	2,232	
+Nauru	0	0	0	0	
+Netherlands	27,449	29,819	37,783	49,955	
+New Caledonia	0	0	0	0	
+New Zealand	27	0	1	0	
+Nicaragua	48	0	0	0	
+Niger	39	35	153	29	
+Nigeria	25	1	2	1	
+Norfolk Island	12	0	303	152	
+Norway	35	80	52	8	
+Oman	1	12	3	0	
+Pakistan	10	0	0	0	
+Panama	165	97	107	174	
+Paraguay	0	0	6	0	
+Peru	45	17	0	0	
+Philippines	7	246	0	0	
+Pitcairn	0	0	0	0	
+Poland	1	2	0	0	
+Portugal	25	81	53	14	
+Qatar	0	0	0	0	
+Romania	0	0	0	0	
+Rwanda	11	0	0	1	
+Saint Kitts and Nevis	168	92	198	67	
+Saint Lucia	224	4,117	108	122	
+Saint Vincent and the Grenadines	105	74	80	90	
+Samoa	0	0	0	0	
+Saudi Arabia	50	1	36	184	
+Senegal	0	0	20	0	
+Serbia	0	0	0	0	
+Sierra Leone	0	12	5	7	
+Singapore	27	25	0	3	
+Solomon Islands	0	0	0	2	
+South Africa	31	182	110	1,160	
+Spain	182	237	274	233	
+Sri Lanka	0	0	0	0	
+Sudan (North + South)	25	26	142	18	
+Suriname	571	771	443	316	
+Swaziland	0	0	0	0	
+Sweden	196	36	34	10	
+Switzerland	26	13	56	94	
+Taipei, Chinese	0	0	7	3	
+Tanzania, United Republic of	57	0	0	0	
+Thailand	0	0	0	0	
+Timor-Leste	4	0	0	0	
+Togo	0	0	0	0	
+Tokelau	0	3	0	0	
+Trinidad and Tobago	891	905	1,077	961	
+Tunisia	8	0	0	0	
+Turkey	78	0	0	27	
+Turks and Caicos Islands	1	1	0	0	
+Uganda	0	0	1	0	
+Ukraine	13	1	0	27	
+United Arab Emirates	8	11	1	15	
+United Kingdom	2,119	395	156	587	
+United States Minor Outlying Islands	119	4	0	0	
+United States of America	14,633	43,086	19,792	33,594	
+Uruguay	1,295	1	26	343	
+Vanuatu	0	3	11	0	
+Venezuela	5,218	8,351	2,625	3,742	
+Viet Nam	20	10	20	0	
+Yemen	0	25	80	2	
+Zambia	0	0	2	0	
+Zimbabwe	9	0	0	5	

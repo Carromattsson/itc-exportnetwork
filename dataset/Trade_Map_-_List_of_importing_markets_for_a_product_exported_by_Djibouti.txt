@@ -1,0 +1,99 @@
+List of importing markets for a product exported by Djibouti Product: TOTAL All products
+"Importers"	"Exported value in 2009"	
+World	363,709	
+Area Nes	16,903	
+Argentina	0	
+Australia	0	
+Bahrain	0	
+Bangladesh	0	
+Belgium	1,252	
+Benin	29	
+Brazil	31,526	
+Bulgaria	0	
+Cameroon	27	
+Canada	9	
+Central African Republic	2	
+Chile	0	
+China	7	
+Cocos (Keeling) Islands	0	
+Congo	2	
+Costa Rica	0	
+Côte d'Ivoire	13	
+Croatia	0	
+Cyprus	0	
+Denmark	8	
+Egypt	0	
+Ethiopia	128,555	
+Finland	0	
+France	73,029	
+Gabon	8	
+Georgia	0	
+Germany	78	
+Ghana	0	
+Greece	0	
+Hong Kong, China	0	
+India	498	
+Indonesia	0	
+Iran (Islamic Republic of)	0	
+Iraq	59	
+Ireland	0	
+Israel	39	
+Italy	22	
+Japan	924	
+Jordan	6	
+Kenya	7,154	
+Korea, Republic of	0	
+Kuwait	0	
+Latvia	0	
+Lebanon	194	
+Libya	8	
+Lithuania	0	
+Madagascar	0	
+Malawi	3	
+Malaysia	6	
+Mali	0	
+Malta	0	
+Mauritania	0	
+Mexico	261	
+Montenegro	0	
+Morocco	0	
+Netherlands	496	
+New Caledonia	1	
+New Zealand	0	
+Norway	0	
+Oman	0	
+Pakistan	15,190	
+Panama	0	
+Philippines	251	
+Pitcairn	0	
+Poland	0	
+Portugal	6	
+Qatar	22,883	
+Russian Federation	0	
+Saudi Arabia	2,855	
+Senegal	14	
+Serbia	0	
+Singapore	0	
+Slovenia	0	
+Somalia	43,157	
+South Africa	5	
+Spain	32	
+Sri Lanka	0	
+Sudan (North + South)	628	
+Sweden	46	
+Switzerland	0	
+Syrian Arab Republic	0	
+Taipei, Chinese	0	
+Tanzania, United Republic of	3	
+Thailand	0	
+Trinidad and Tobago	0	
+Tunisia	18	
+Turkey	180	
+Uganda	9	
+Ukraine	5	
+United Arab Emirates	3,600	
+United Kingdom	18	
+United States of America	1,374	
+Viet Nam	1	
+Yemen	12,298	
+Zambia	15	

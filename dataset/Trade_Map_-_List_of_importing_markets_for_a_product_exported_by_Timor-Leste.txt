@@ -1,0 +1,111 @@
+List of importing markets for a product exported by Timor-Leste Product: TOTAL All products
+"Importers"	"Exported value in 2004"	"Exported value in 2005"	
+World	105,654	43,451	
+Afghanistan	2	103	
+Albania	0	0	
+Andorra	0	0	
+Angola	0	0	
+Antigua and Barbuda	0	0	
+Australia	44,069	23,340	
+Austria	0	4	
+Bangladesh	4,226	924	
+Belgium	0	15	
+Bosnia and Herzegovina	0	1	
+Brazil	4	961	
+Brunei Darussalam	0	0	
+Burundi	1	5	
+Cabo Verde	1	0	
+Cambodia	0	13	
+Cameroon	1	0	
+Canada	2,768	70	
+Central African Republic	98	46	
+China	10	13	
+Colombia	2	0	
+Congo	0	5	
+Costa Rica	7	0	
+Côte d'Ivoire	16	204	
+Croatia	1	2	
+Cyprus	2	266	
+Denmark	0	0	
+Djibouti	33	0	
+Dominica	0	0	
+El Salvador	2	1	
+Eritrea	0	4	
+Ethiopia	21	3	
+Fiji	160	837	
+Finland	15	0	
+France	8	0	
+Gambia	52	2	
+Germany	441	1,688	
+Ghana	0	1	
+Grenada	8	0	
+Haiti	1	9	
+Honduras	2	0	
+Hong Kong, China	25	5	
+Iceland	0	0	
+India	7	1	
+Indonesia	2,629	859	
+Ireland	0	7	
+Italy	3,637	0	
+Jamaica	0	0	
+Japan	24,114	132	
+Jordan	0	5	
+Kenya	1	12	
+Kiribati	0	17	
+Korea, Democratic People's Republic of	0	0	
+Korea, Republic of	6	37	
+Lao People's Democratic Republic	0	0	
+Lebanon	10	0	
+Liberia	92	20	
+Macao, China	0	19	
+Macedonia, The Former Yugoslav Republic of	5	3	
+Malaysia	1,703	107	
+Mali	1	0	
+Morocco	0	11	
+Mozambique	0	3	
+Myanmar	1	8	
+Nepal	0	1	
+Netherland Antilles	0	8	
+Netherlands	100	12	
+New Zealand	95	76	
+Niger	19	0	
+Nigeria	2	0	
+Norway	75	71	
+Pakistan	1,443	918	
+Panama	2	0	
+Papua New Guinea	58	9	
+Philippines	96	14	
+Portugal	13,711	1,249	
+Romania	7	2	
+Russian Federation	6	7	
+Rwanda	8	0	
+Saint Kitts and Nevis	0	106	
+Samoa	20	0	
+Senegal	0	0	
+Sierra Leone	23	10	
+Singapore	987	192	
+Slovakia	0	0	
+South Africa	1	16	
+Spain	1	0	
+Sri Lanka	12	16	
+Sudan (North + South)	15	274	
+Swaziland	14	0	
+Sweden	3	3	
+Switzerland	37	1	
+Syrian Arab Republic	0	0	
+Taipei, Chinese	133	208	
+Tajikistan	2	3	
+Thailand	226	84	
+Tonga	7	0	
+Turkey	0	0	
+Uganda	8	8	
+Ukraine	0	0	
+United Arab Emirates	0	0	
+United Kingdom	9	11	
+United States Minor Outlying Islands	0	0	
+United States of America	4,338	10,377	
+Uruguay	0	0	
+Viet Nam	0	1	
+Western Sahara	0	3	
+Zambia	5	2	
+Zimbabwe	6	2	

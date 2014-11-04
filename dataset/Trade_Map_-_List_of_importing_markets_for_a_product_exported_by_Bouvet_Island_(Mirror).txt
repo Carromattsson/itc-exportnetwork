@@ -1,0 +1,9 @@
+List of importing markets for a product exported by Bouvet Island (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	0	0	0	0	0	0	0	0	0	0	5	0	13	
+Belize	0	0	0	0	0	0	0	0	0	0	0	0	1	
+Brunei Darussalam	0	0	0	0		0				0	2	0	0	
+Costa Rica	0	0	0	0	0	0	0	0	0	0	0	0	11	
+Dominica	0	0	0	0	0	0	0	0	0	0	3	0		
+Dominican Republic	0	0	0	0	0	0	0	0	0	0	0	0	1	
+Zambia	0	0	0	0	0	0	0	0	0	0	0	0	0	

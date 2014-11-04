@@ -1,0 +1,37 @@
+List of importing markets for a product exported by Oceania Nes (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	69,349	46,352	70,360	67,209	59,058	67,728	83,047	97,725	39,248	19,577	16,380	23,237	1,645	
+Australia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Austria	15	0	0	0	0	0	0	0	0	0	0	0	0	
+Bangladesh	3,515	3,309	17	0	0	0	0							
+Benin	0	10	1	1	0	0	0	0	0	0	0	0	0	
+Botswana	7	1	0	0	0	0	0	0	0	0	0	0	0	
+Brunei Darussalam	0	0	0	0		0				0	0	0	0	
+Bulgaria	0	1	0	0	0	0	0	0	0	0	0	0	0	
+Cambodia	0	0	0	0	205	124	0	0	0	0	0	0		
+Cameroon	1	0	0	0	0	0	0	0	0	0	1	0		
+China	0	54	132	26	72	35	125	14	21	43	7	325	278	
+Costa Rica	3,512	8	0	0	0	0	0	0	0	0	0	0	0	
+Côte d'Ivoire	0	0	0	17	3	0	1	0	0	0	0	0		
+Egypt	0	0	0	0	0	0	0	175	152	21	39	0	309	
+Greece	1	0	0	3	0	0	0	0	0	0	0	0	0	
+Hong Kong, China	25,394	37,605	30,773	38,214	46,675	50,821	60,645	57,703	18,412	13,077	14,258	19,278		
+Indonesia	0	15	0	0	0	1	0	0	2	333	0	0	0	
+Israel	141	264	2,074	93	67	77	152	0	0	0	0	0	0	
+Japan	0	0	0	0	76	56	369	73	155	23	30	177	39	
+Kuwait	0	0	0	0		41	0	0						
+Madagascar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Mali	0	19	0	0	0	0	0	0		0	0	0		
+Netherlands	30,885	894	710	399	5,104	12,868	14,196	9,032	0	0	0	0	0	
+New Caledonia	0	0	0	6	0	0	0	0	0	0	0	0	0	
+Nicaragua	0	4	0	0	0	0	0	0	0	0	0	0	0	
+Panama	0	0	0		0	0	0	0	0	0	12			
+Philippines	0	23	0	15	0	0	0	0	0	84	0	0	20	
+Qatar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Saudi Arabia	0	0	0	0	0	31	349	346	339	226	549	3,271		
+Sierra Leone		11												
+Singapore	0	0	36,609	28,435	6,856	3,674	7,205	30,277	19,765	5,470	1,158	33	999	
+Spain	0	0	0	0	0	0	0	105	402	298	326	153	0	
+Sweden	0	2	0	0	0	0	0	0	0	0	0	0	0	
+Togo	0	0	0	0	0		4	0	0	0	0	0	0	
+Turkey	5,878	4,132	44	0	0	0	1	0	0	2	0	0	0	

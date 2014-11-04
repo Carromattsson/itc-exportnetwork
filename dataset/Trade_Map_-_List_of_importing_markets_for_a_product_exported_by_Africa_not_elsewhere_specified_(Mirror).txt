@@ -1,0 +1,71 @@
+List of importing markets for a product exported by Africa not elsewhere specified (Mirror) Product: TOTAL All products
+"Importers"	"Exported value in 2001"	"Exported value in 2002"	"Exported value in 2003"	"Exported value in 2004"	"Exported value in 2005"	"Exported value in 2006"	"Exported value in 2007"	"Exported value in 2008"	"Exported value in 2009"	"Exported value in 2010"	"Exported value in 2011"	"Exported value in 2012"	"Exported value in 2013"	
+Total	112,392	103,327	52,701	142,635	69,876	61,036	141,389	134,667	112,524	41,104	35,389	7,480	4,194	
+Algeria	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Andorra	0	0	0	0										
+Austria	0	0	0	249	14	7	3	3	0	0	0	0	0	
+Bahamas	0	0	0	0	0	0	0	0	0	0	0	0		
+Bangladesh	1,558	141	0	0	0	0	0							
+Belgium	0	353	17	10	11	73	5	1,156	38	13	7	27	29	
+Botswana	186	140	0	0	0	0	0	0	0	0	0	0	0	
+Brunei Darussalam	0	0	0	0		0				0	0	0	0	
+Bulgaria	0	0	0	0	0	0	131	0	0	0	0	0	0	
+Cambodia	0	0	0	0	0	0	0	0	0	0	0	23		
+Chile	0	0	0	84	1	42	330	108	5	59	0	23	102	
+China	0	113	16	0	398	692	413	174	6	15	4,609	206	45	
+Costa Rica	110	8	0	0	0	0	0	0	0	0	0	0	0	
+Côte d'Ivoire	0	0	0	0	0	0	1	0	0	0	0	0		
+Cuba	0	0	0	0	77	5								
+Cyprus	0	0	21	0	0	0	0	0	0	0	0	0	0	
+Czech Republic	0	0	41	10	0	0	0	6	35	13	13	58	16	
+Denmark	64	7	15	290	15	7	10	47	0	0	0	0	0	
+Dominican Republic	1,752	0	0	0	0	0	0	0	0	0	0	0	0	
+Egypt	0	0	2,439	9	0	0	15	0	0	0	0	0	0	
+Estonia	0	0	0	0	0	0	0	0	1	0	0	0	0	
+Finland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+France	463	181	10	71	462	69	119	243	336	1,347	1,725	1,561	1,073	
+Germany	0	0	0	0	0	2,673	1,611	1,310	2,378	1,657	978	1,069	755	
+Greece	0	0	0	0	0	0	77	0	106	0	91	0	167	
+Greenland	0	0	1	0	0	0	0	1	0	0	0	0	0	
+Hong Kong, China	305	174	417	495	534	255	76	409	331	596	160	348		
+Hungary	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Indonesia	577	435	448	795	0	376	196	20	0	0	0	0	16	
+Iran (Islamic Republic of)	0	0	0	0	0	0				0	0			
+Ireland	0	565	204	0	0	0	0	0	684	674	731	648	669	
+Israel	141	1,117	125	156	258	338	56	0	0	0	0	0	0	
+Italy	5,962	1,487	2,647	248	1,497	5,234	387	82	0	0	0	0	0	
+Japan	0	0	0	0	0	0	3,553	1,777	610	1,263	371	275	271	
+Kuwait	0	0	0	0		1	0	0						
+Latvia	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lesotho	0	0	0					1	3	2				
+Libya							17	643	0	48				
+Lithuania	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luxembourg	0	0	5	0	0	0	0	4	2	0	0	9	0	
+Macao, China	0	0	0	0	0	0	0	0	0	0		0		
+Mauritania	0	0	0	11	11		0	0	1	0	0	0		
+Netherlands	101,273	98,216	34,033	42,905	39,088	16,176	53,951	45,062	0	0	0	0	0	
+Nicaragua	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Nigeria	0	0	0			0	480	28	0	0	0	0		
+Norway	0	0	0	0	0	0	0	0	0	0	0	21	66	
+Panama	0	0	0		0	433	0	0	0	27	12			
+Philippines	0	344	375	443	0	0	0	0	0	0	0	0	0	
+Poland	0	0	0	283	631	0	320	981	224	34	139	10	19	
+Portugal	1	27	69	67	115	174	92	72	0	77	66	118	0	
+Qatar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Republic of Moldova	0	0	0	0	0	0	0	1	0	0	12	0	0	
+Romania	0	0	0	0	0	0	0	0	0	0	0	0	19	
+Saudi Arabia	0	0	0	0	0	0	0	0	0	0	0	0		
+Senegal	0	0	0	0	0	0	1,045	450	284	493	0	0	0	
+Singapore	0	0	11,818	96,508	22,224	23,852	65,298	70,211	106,150	34,684	26,405	188	698	
+Slovakia	0	19	0	0	0	50	2	153	3	76	35	0	24	
+Slovenia	0	0	0	0	0	0	0	2	6	4	0	16	109	
+Spain	0	0	0	0	0	0	0	0	0	0	11	0	0	
+Sri Lanka	0	0	0	0	0	4	0	0	0	0	0	0		
+Sweden	0	0	0	1	0	0	7	0	0	22	4	10	2	
+Switzerland	0	0	0	0	0	0	1,246	1,182	941	0	20	8	0	
+Syrian Arab Republic	0	0	0	0	4,540	10,575	11,948	10,520	0	0				
+Taipei, Chinese	0	0	0	0	0	0	0	0	367	0	0	909	0	
+Turkey	0	0	0	0	0	0	0	21	13	0	0	101	87	
+United Arab Emirates					0		0	0						
+United Kingdom	0	0	0	0	0	0	0	0	0	0	0	1,852	27	
+Venezuela	0	0	0	0	0	0		0	0	0	0	0	0	
